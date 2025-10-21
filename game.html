@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Islamic Vocabulary Game</title>
+<style>
+  body {
+    font-family: "Poppins", sans-serif;
+    background-color: #e8f5e9;
+    color: #1b5e20;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  h1 {
+    color: #2e7d32;
+  }
+  #question {
+    font-size: 1.4rem;
+    margin: 20px 0;
+  }
+  .option {
+    background-color: white;
+    border: 2px solid #2e7d32;
+    color: #2e7d32;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    width: 250px;
+    text-align: center;
+    transition: 0.2s;
+  }
+  .option:hover {
+    background-color: #2e7d32;
+    color: white;
+  }
+  #result {
+    font-size: 1.2rem;
+    margin-top: 20px;
+    color: #2e7d32;
+  }
+  #finish {
+    font-size: 1.3rem;
+    color: #388e3c;
+    margin-top: 30px;
+  }
+</style>
+</head>
+<body>
+  <h1>🕌 Islamic Vocabulary Game</h1>
+  <div id="question">Loading...</div>
+  <div id="options"></div>
+  <div id="result"></div>
+  <div id="finish"></div>
+
+<script>
+async function loadWords() {
+  const res = await fetch("words.json");
+  const data = await res.json();
+
+  // start day
+  const startDate = new Date(localStorage.getItem("startDate") || new Date());
+  if (!localStorage.getItem("startDate")) {
+    localStorage.setItem("startDate", startDate);
+  }
+
+  const today = new Date();
+  const diffDays = Math.floor((today - new Date(startDate)) / (1000 * 60 * 60 * 24));
+  const startIndex = diffDays * 10;
+  const endIndex = startIndex + 10;
+
+  const todaysWords = data.slice(startIndex, endIndex);
+
+  if (todaysWords.length === 0) {
+    document.getElementById("finish").innerText = "🌙 Come back tomorrow for new words!";
+    return;
+  }
+
+  // mix Urdu->English and English->Urdu
+  const questions = todaysWords.map((w) => {
+    const isUrduToEng = Math.random() > 0.5;
+    return {
+      question: isUrduToEng ? `اردو ترجمہ: ${w.urdu}` : `Translate into Urdu: ${w.english}`,
+      correct: isUrduToEng ? w.english : w.urdu,
+      options: shuffle([
+        w.english, w.urdu,
+        data[Math.floor(Math.random() * data.length)].english,
+        data[Math.floor(Math.random() * data.length)].urdu
+      ]).slice(0,4)
+    };
+  });
+
+  shuffle(questions);
+  let current = 0;
+  showQuestion();
+
+  function showQuestion() {
+    if (current >= questions.length) {
+      document.getElementById("finish").innerText = "✅ Excellent! You finished today's quiz. 🌙";
+      document.getElementById("question").innerText = "";
+      document.getElementById("options").innerHTML = "";
+      return;
+    }
+    const q = questions[current];
+    document.getElementById("question").innerText = q.question;
+    const optionsDiv = document.getElementById("options");
+    optionsDiv.innerHTML = "";
+    q.options.forEach(opt => {
+      const btn = document.createElement("button");
+      btn.className = "option";
+      btn.innerText = opt;
+      btn.onclick = () => {
+        if (opt.trim() === q.correct.trim()) {
+          document.getElementById("result").innerText = "✅ Correct!";
+          current++;
+          setTimeout(() => {
+            document.getElementById("result").innerText = "";
+            showQuestion();
+          }, 800);
+        } else {
+          document.getElementById("result").innerText = "❌ Try again!";
+        }
+      };
+      optionsDiv.appendChild(btn);
+    });
+  }
+}
+
+function shuffle(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+}
+
+loadWords();
+</script>
+</body>
+</html>
