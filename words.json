@@ -1,123 +1,175 @@
 [
   {
-    "english": "Allah",
-    "urdu": "اللہ"
+    "english": "Hereafter",
+    "urdu": "آخرت"
   },
   {
-    "english": "Faith",
-    "urdu": "ایمان"
-  },
-  {
-    "english": "Prayer",
-    "urdu": "نماز"
-  },
-  {
-    "english": "Fasting",
-    "urdu": "روزہ"
-  },
-  {
-    "english": "Zakat",
-    "urdu": "زکوٰۃ"
-  },
-  {
-    "english": "Quran",
-    "urdu": "قرآن"
-  },
-  {
-    "english": "Hadith",
-    "urdu": "حدیث"
-  },
-  {
-    "english": "Sunnah",
-    "urdu": "سنت"
-  },
-  {
-    "english": "Prophet",
-    "urdu": "نبی"
-  },
-  {
-    "english": "Messenger",
-    "urdu": "رسول"
-  },
-  {
-    "english": "Mercy",
-    "urdu": "رحمت"
-  },
-  {
-    "english": "Forgiveness",
-    "urdu": "عفو"
-  },
-  {
-    "english": "Patience",
-    "urdu": "صبر"
-  },
-  {
-    "english": "Gratitude",
-    "urdu": "شکر"
-  },
-  {
-    "english": "Justice",
-    "urdu": "عدل"
-  },
-  {
-    "english": "Sincerity",
-    "urdu": "اخلاص"
-  },
-  {
-    "english": "Intention",
-    "urdu": "نیت"
-  },
-  {
-    "english": "Deed",
-    "urdu": "عمل"
-  },
-  {
-    "english": "Truthfulness",
-    "urdu": "صدق"
-  },
-  {
-    "english": "Halal",
-    "urdu": "حلال"
-  },
-  {
-    "english": "Haram",
-    "urdu": "حرام"
+    "english": "Sun",
+    "urdu": "سورج"
   },
   {
     "english": "Piety",
     "urdu": "تقویٰ"
   },
   {
-    "english": "Knowledge",
-    "urdu": "علم"
+    "english": "Bad",
+    "urdu": "برا"
   },
   {
-    "english": "Education",
-    "urdu": "تعلیم"
+    "english": "Allah",
+    "urdu": "اللہ"
+  },
+  {
+    "english": "Tea",
+    "urdu": "چائے"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Water",
+    "urdu": "پانی"
+  },
+  {
+    "english": "Forgiveness",
+    "urdu": "معافی"
+  },
+  {
+    "english": "Home",
+    "urdu": "گھر"
+  },
+  {
+    "english": "Tea",
+    "urdu": "چائے"
+  },
+  {
+    "english": "Book",
+    "urdu": "کتاب"
+  },
+  {
+    "english": "Good",
+    "urdu": "اچھا"
+  },
+  {
+    "english": "Road",
+    "urdu": "سڑک"
+  },
+  {
+    "english": "Mercy",
+    "urdu": "رحمت"
+  },
+  {
+    "english": "Car",
+    "urdu": "گاڑی"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Sad",
+    "urdu": "اداس"
+  },
+  {
+    "english": "Justice",
+    "urdu": "عدل"
+  },
+  {
+    "english": "Paradise",
+    "urdu": "جنت"
+  },
+  {
+    "english": "Sincerity",
+    "urdu": "اخلاص"
+  },
+  {
+    "english": "Forgiveness",
+    "urdu": "معافی"
+  },
+  {
+    "english": "Sun",
+    "urdu": "سورج"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Piety",
+    "urdu": "تقویٰ"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Piety",
+    "urdu": "تقویٰ"
+  },
+  {
+    "english": "Table",
+    "urdu": "میز"
+  },
+  {
+    "english": "Flower",
+    "urdu": "پھول"
+  },
+  {
+    "english": "Food",
+    "urdu": "کھانا"
+  },
+  {
+    "english": "Piety",
+    "urdu": "تقویٰ"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Sad",
+    "urdu": "اداس"
+  },
+  {
+    "english": "Sad",
+    "urdu": "اداس"
+  },
+  {
+    "english": "Bad",
+    "urdu": "برا"
+  },
+  {
+    "english": "Paradise",
+    "urdu": "جنت"
+  },
+  {
+    "english": "Home",
+    "urdu": "گھر"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Evening",
+    "urdu": "شام"
   },
   {
     "english": "Mosque",
     "urdu": "مسجد"
   },
   {
-    "english": "Wudu",
-    "urdu": "وضو"
+    "english": "Book",
+    "urdu": "کتاب"
   },
   {
-    "english": "Sajdah",
-    "urdu": "سجدہ"
-  },
-  {
-    "english": "Ruku",
-    "urdu": "رکوع"
-  },
-  {
-    "english": "Adhan",
-    "urdu": "اذان"
-  },
-  {
-    "english": "Paradise",
-    "urdu": "جنت"
+    "english": "Star",
+    "urdu": "ستارہ"
   },
   {
     "english": "Hell",
@@ -128,24 +180,3320 @@
     "urdu": "آخرت"
   },
   {
-    "english": "Day of Judgment",
-    "urdu": "قیامت"
+    "english": "Car",
+    "urdu": "گاڑی"
   },
   {
-    "english": "Repentance",
-    "urdu": "توبہ"
+    "english": "Night",
+    "urdu": "رات"
   },
   {
-    "english": "Dhikr",
-    "urdu": "ذکر"
+    "english": "Friend",
+    "urdu": "دوست"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Flower",
+    "urdu": "پھول"
+  },
+  {
+    "english": "Mosque",
+    "urdu": "مسجد"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Star",
+    "urdu": "ستارہ"
+  },
+  {
+    "english": "Tea",
+    "urdu": "چائے"
+  },
+  {
+    "english": "Good",
+    "urdu": "اچھا"
+  },
+  {
+    "english": "Tea",
+    "urdu": "چائے"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
   },
   {
     "english": "Dua",
     "urdu": "دعا"
   },
   {
-    "english": "Sadaqah",
+    "english": "Zakat",
+    "urdu": "زکوٰۃ"
+  },
+  {
+    "english": "Umrah",
+    "urdu": "عمرہ"
+  },
+  {
+    "english": "Honesty",
+    "urdu": "ایمانداری"
+  },
+  {
+    "english": "Tree",
+    "urdu": "درخت"
+  },
+  {
+    "english": "Home",
+    "urdu": "گھر"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Hadith",
+    "urdu": "حدیث"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Sad",
+    "urdu": "اداس"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Prayer",
+    "urdu": "نماز"
+  },
+  {
+    "english": "Home",
+    "urdu": "گھر"
+  },
+  {
+    "english": "Flower",
+    "urdu": "پھول"
+  },
+  {
+    "english": "Paradise",
+    "urdu": "جنت"
+  },
+  {
+    "english": "Food",
+    "urdu": "کھانا"
+  },
+  {
+    "english": "Kindness",
+    "urdu": "مہربانی"
+  },
+  {
+    "english": "Umrah",
+    "urdu": "عمرہ"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Good",
+    "urdu": "اچھا"
+  },
+  {
+    "english": "Home",
+    "urdu": "گھر"
+  },
+  {
+    "english": "Dua",
+    "urdu": "دعا"
+  },
+  {
+    "english": "Sad",
+    "urdu": "اداس"
+  },
+  {
+    "english": "Road",
+    "urdu": "سڑک"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Moon",
+    "urdu": "چاند"
+  },
+  {
+    "english": "Tree",
+    "urdu": "درخت"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Mosque",
+    "urdu": "مسجد"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Hereafter",
+    "urdu": "آخرت"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Faith",
+    "urdu": "ایمان"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Sunnah",
+    "urdu": "سنت"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Honesty",
+    "urdu": "ایمانداری"
+  },
+  {
+    "english": "Dua",
+    "urdu": "دعا"
+  },
+  {
+    "english": "Happy",
+    "urdu": "خوش"
+  },
+  {
+    "english": "Justice",
+    "urdu": "عدل"
+  },
+  {
+    "english": "Quran",
+    "urdu": "قرآن"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Mosque",
+    "urdu": "مسجد"
+  },
+  {
+    "english": "Truth",
+    "urdu": "سچائی"
+  },
+  {
+    "english": "Mercy",
+    "urdu": "رحمت"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Paradise",
+    "urdu": "جنت"
+  },
+  {
+    "english": "Hereafter",
+    "urdu": "آخرت"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Justice",
+    "urdu": "عدل"
+  },
+  {
+    "english": "Food",
+    "urdu": "کھانا"
+  },
+  {
+    "english": "Hereafter",
+    "urdu": "آخرت"
+  },
+  {
+    "english": "Faith",
+    "urdu": "ایمان"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Flower",
+    "urdu": "پھول"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Good",
+    "urdu": "اچھا"
+  },
+  {
+    "english": "Zakat",
+    "urdu": "زکوٰۃ"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Hadith",
+    "urdu": "حدیث"
+  },
+  {
+    "english": "Forgiveness",
+    "urdu": "معافی"
+  },
+  {
+    "english": "Book",
+    "urdu": "کتاب"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Zakat",
+    "urdu": "زکوٰۃ"
+  },
+  {
+    "english": "Dua",
+    "urdu": "دعا"
+  },
+  {
+    "english": "Teacher",
+    "urdu": "استاد"
+  },
+  {
+    "english": "Teacher",
+    "urdu": "استاد"
+  },
+  {
+    "english": "Piety",
+    "urdu": "تقویٰ"
+  },
+  {
+    "english": "Star",
+    "urdu": "ستارہ"
+  },
+  {
+    "english": "Food",
+    "urdu": "کھانا"
+  },
+  {
+    "english": "Star",
+    "urdu": "ستارہ"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Quran",
+    "urdu": "قرآن"
+  },
+  {
+    "english": "Prayer",
+    "urdu": "نماز"
+  },
+  {
+    "english": "Prayer",
+    "urdu": "نماز"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Mosque",
+    "urdu": "مسجد"
+  },
+  {
+    "english": "Zakat",
+    "urdu": "زکوٰۃ"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Sun",
+    "urdu": "سورج"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Hereafter",
+    "urdu": "آخرت"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Home",
+    "urdu": "گھر"
+  },
+  {
+    "english": "Hereafter",
+    "urdu": "آخرت"
+  },
+  {
+    "english": "Tree",
+    "urdu": "درخت"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Kindness",
+    "urdu": "مہربانی"
+  },
+  {
+    "english": "Star",
+    "urdu": "ستارہ"
+  },
+  {
+    "english": "Paradise",
+    "urdu": "جنت"
+  },
+  {
+    "english": "Piety",
+    "urdu": "تقویٰ"
+  },
+  {
+    "english": "Sincerity",
+    "urdu": "اخلاص"
+  },
+  {
+    "english": "Road",
+    "urdu": "سڑک"
+  },
+  {
+    "english": "Dua",
+    "urdu": "دعا"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Table",
+    "urdu": "میز"
+  },
+  {
+    "english": "Book",
+    "urdu": "کتاب"
+  },
+  {
+    "english": "Pen",
+    "urdu": "قلم"
+  },
+  {
+    "english": "Sad",
+    "urdu": "اداس"
+  },
+  {
+    "english": "Hadith",
+    "urdu": "حدیث"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Faith",
+    "urdu": "ایمان"
+  },
+  {
+    "english": "Honesty",
+    "urdu": "ایمانداری"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Umrah",
+    "urdu": "عمرہ"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Book",
+    "urdu": "کتاب"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Prayer",
+    "urdu": "نماز"
+  },
+  {
+    "english": "Flower",
+    "urdu": "پھول"
+  },
+  {
+    "english": "Moon",
+    "urdu": "چاند"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Flower",
+    "urdu": "پھول"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Allah",
+    "urdu": "اللہ"
+  },
+  {
+    "english": "Evening",
+    "urdu": "شام"
+  },
+  {
+    "english": "Moon",
+    "urdu": "چاند"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Bad",
+    "urdu": "برا"
+  },
+  {
+    "english": "Repentance",
+    "urdu": "توبہ"
+  },
+  {
+    "english": "Table",
+    "urdu": "میز"
+  },
+  {
+    "english": "Happy",
+    "urdu": "خوش"
+  },
+  {
+    "english": "Kindness",
+    "urdu": "مہربانی"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Flower",
+    "urdu": "پھول"
+  },
+  {
+    "english": "Car",
+    "urdu": "گاڑی"
+  },
+  {
+    "english": "Honesty",
+    "urdu": "ایمانداری"
+  },
+  {
+    "english": "Justice",
+    "urdu": "عدل"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Allah",
+    "urdu": "اللہ"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Truth",
+    "urdu": "سچائی"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Road",
+    "urdu": "سڑک"
+  },
+  {
+    "english": "Prayer",
+    "urdu": "نماز"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Sincerity",
+    "urdu": "اخلاص"
+  },
+  {
+    "english": "Food",
+    "urdu": "کھانا"
+  },
+  {
+    "english": "Book",
+    "urdu": "کتاب"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Star",
+    "urdu": "ستارہ"
+  },
+  {
+    "english": "Hadith",
+    "urdu": "حدیث"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Friend",
+    "urdu": "دوست"
+  },
+  {
+    "english": "Day",
+    "urdu": "دن"
+  },
+  {
+    "english": "Bad",
+    "urdu": "برا"
+  },
+  {
+    "english": "Forgiveness",
+    "urdu": "معافی"
+  },
+  {
+    "english": "Faith",
+    "urdu": "ایمان"
+  },
+  {
+    "english": "Zakat",
+    "urdu": "زکوٰۃ"
+  },
+  {
+    "english": "Zakat",
+    "urdu": "زکوٰۃ"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Umrah",
+    "urdu": "عمرہ"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Day",
+    "urdu": "دن"
+  },
+  {
+    "english": "Table",
+    "urdu": "میز"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Food",
+    "urdu": "کھانا"
+  },
+  {
+    "english": "Faith",
+    "urdu": "ایمان"
+  },
+  {
+    "english": "Good",
+    "urdu": "اچھا"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Tea",
+    "urdu": "چائے"
+  },
+  {
+    "english": "Road",
+    "urdu": "سڑک"
+  },
+  {
+    "english": "Prayer",
+    "urdu": "نماز"
+  },
+  {
+    "english": "Home",
+    "urdu": "گھر"
+  },
+  {
+    "english": "Repentance",
+    "urdu": "توبہ"
+  },
+  {
+    "english": "Tree",
+    "urdu": "درخت"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Road",
+    "urdu": "سڑک"
+  },
+  {
+    "english": "Home",
+    "urdu": "گھر"
+  },
+  {
+    "english": "Tea",
+    "urdu": "چائے"
+  },
+  {
+    "english": "Home",
+    "urdu": "گھر"
+  },
+  {
+    "english": "Justice",
+    "urdu": "عدل"
+  },
+  {
+    "english": "Piety",
+    "urdu": "تقویٰ"
+  },
+  {
+    "english": "Tree",
+    "urdu": "درخت"
+  },
+  {
+    "english": "Star",
+    "urdu": "ستارہ"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Repentance",
+    "urdu": "توبہ"
+  },
+  {
+    "english": "Bad",
+    "urdu": "برا"
+  },
+  {
+    "english": "Flower",
+    "urdu": "پھول"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Sunnah",
+    "urdu": "سنت"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Zakat",
+    "urdu": "زکوٰۃ"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Truth",
+    "urdu": "سچائی"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Charity",
     "urdu": "صدقہ"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Forgiveness",
+    "urdu": "معافی"
+  },
+  {
+    "english": "Mercy",
+    "urdu": "رحمت"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Hadith",
+    "urdu": "حدیث"
+  },
+  {
+    "english": "Hadith",
+    "urdu": "حدیث"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Happy",
+    "urdu": "خوش"
+  },
+  {
+    "english": "Sun",
+    "urdu": "سورج"
+  },
+  {
+    "english": "Umrah",
+    "urdu": "عمرہ"
+  },
+  {
+    "english": "Truth",
+    "urdu": "سچائی"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Road",
+    "urdu": "سڑک"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Pen",
+    "urdu": "قلم"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Water",
+    "urdu": "پانی"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Quran",
+    "urdu": "قرآن"
+  },
+  {
+    "english": "Umrah",
+    "urdu": "عمرہ"
+  },
+  {
+    "english": "Water",
+    "urdu": "پانی"
+  },
+  {
+    "english": "Allah",
+    "urdu": "اللہ"
+  },
+  {
+    "english": "Umrah",
+    "urdu": "عمرہ"
+  },
+  {
+    "english": "Bad",
+    "urdu": "برا"
+  },
+  {
+    "english": "Sad",
+    "urdu": "اداس"
+  },
+  {
+    "english": "Sincerity",
+    "urdu": "اخلاص"
+  },
+  {
+    "english": "Charity",
+    "urdu": "صدقہ"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Kindness",
+    "urdu": "مہربانی"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Friend",
+    "urdu": "دوست"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Dua",
+    "urdu": "دعا"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Quran",
+    "urdu": "قرآن"
+  },
+  {
+    "english": "Honesty",
+    "urdu": "ایمانداری"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Allah",
+    "urdu": "اللہ"
+  },
+  {
+    "english": "Mosque",
+    "urdu": "مسجد"
+  },
+  {
+    "english": "Car",
+    "urdu": "گاڑی"
+  },
+  {
+    "english": "Paradise",
+    "urdu": "جنت"
+  },
+  {
+    "english": "Friend",
+    "urdu": "دوست"
+  },
+  {
+    "english": "Zakat",
+    "urdu": "زکوٰۃ"
+  },
+  {
+    "english": "Sun",
+    "urdu": "سورج"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Happy",
+    "urdu": "خوش"
+  },
+  {
+    "english": "Zakat",
+    "urdu": "زکوٰۃ"
+  },
+  {
+    "english": "Sad",
+    "urdu": "اداس"
+  },
+  {
+    "english": "Good",
+    "urdu": "اچھا"
+  },
+  {
+    "english": "Mercy",
+    "urdu": "رحمت"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Friend",
+    "urdu": "دوست"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Car",
+    "urdu": "گاڑی"
+  },
+  {
+    "english": "Faith",
+    "urdu": "ایمان"
+  },
+  {
+    "english": "Kindness",
+    "urdu": "مہربانی"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Paradise",
+    "urdu": "جنت"
+  },
+  {
+    "english": "Mosque",
+    "urdu": "مسجد"
+  },
+  {
+    "english": "Umrah",
+    "urdu": "عمرہ"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Sincerity",
+    "urdu": "اخلاص"
+  },
+  {
+    "english": "Star",
+    "urdu": "ستارہ"
+  },
+  {
+    "english": "Tree",
+    "urdu": "درخت"
+  },
+  {
+    "english": "Prayer",
+    "urdu": "نماز"
+  },
+  {
+    "english": "Sincerity",
+    "urdu": "اخلاص"
+  },
+  {
+    "english": "Truth",
+    "urdu": "سچائی"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Table",
+    "urdu": "میز"
+  },
+  {
+    "english": "Evening",
+    "urdu": "شام"
+  },
+  {
+    "english": "Road",
+    "urdu": "سڑک"
+  },
+  {
+    "english": "Umrah",
+    "urdu": "عمرہ"
+  },
+  {
+    "english": "Tree",
+    "urdu": "درخت"
+  },
+  {
+    "english": "Kindness",
+    "urdu": "مہربانی"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Hadith",
+    "urdu": "حدیث"
+  },
+  {
+    "english": "Quran",
+    "urdu": "قرآن"
+  },
+  {
+    "english": "Book",
+    "urdu": "کتاب"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Paradise",
+    "urdu": "جنت"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Hadith",
+    "urdu": "حدیث"
+  },
+  {
+    "english": "Zakat",
+    "urdu": "زکوٰۃ"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Water",
+    "urdu": "پانی"
+  },
+  {
+    "english": "Repentance",
+    "urdu": "توبہ"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Table",
+    "urdu": "میز"
+  },
+  {
+    "english": "Forgiveness",
+    "urdu": "معافی"
+  },
+  {
+    "english": "Friend",
+    "urdu": "دوست"
+  },
+  {
+    "english": "Kindness",
+    "urdu": "مہربانی"
+  },
+  {
+    "english": "Book",
+    "urdu": "کتاب"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Sun",
+    "urdu": "سورج"
+  },
+  {
+    "english": "Food",
+    "urdu": "کھانا"
+  },
+  {
+    "english": "Sincerity",
+    "urdu": "اخلاص"
+  },
+  {
+    "english": "Table",
+    "urdu": "میز"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Star",
+    "urdu": "ستارہ"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Kindness",
+    "urdu": "مہربانی"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Teacher",
+    "urdu": "استاد"
+  },
+  {
+    "english": "Sunnah",
+    "urdu": "سنت"
+  },
+  {
+    "english": "Flower",
+    "urdu": "پھول"
+  },
+  {
+    "english": "Tea",
+    "urdu": "چائے"
+  },
+  {
+    "english": "Pen",
+    "urdu": "قلم"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Repentance",
+    "urdu": "توبہ"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Quran",
+    "urdu": "قرآن"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Day",
+    "urdu": "دن"
+  },
+  {
+    "english": "Friend",
+    "urdu": "دوست"
+  },
+  {
+    "english": "Zakat",
+    "urdu": "زکوٰۃ"
+  },
+  {
+    "english": "Food",
+    "urdu": "کھانا"
+  },
+  {
+    "english": "Bad",
+    "urdu": "برا"
+  },
+  {
+    "english": "Sad",
+    "urdu": "اداس"
+  },
+  {
+    "english": "Good",
+    "urdu": "اچھا"
+  },
+  {
+    "english": "Truth",
+    "urdu": "سچائی"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Umrah",
+    "urdu": "عمرہ"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Table",
+    "urdu": "میز"
+  },
+  {
+    "english": "Happy",
+    "urdu": "خوش"
+  },
+  {
+    "english": "Mercy",
+    "urdu": "رحمت"
+  },
+  {
+    "english": "Sad",
+    "urdu": "اداس"
+  },
+  {
+    "english": "Allah",
+    "urdu": "اللہ"
+  },
+  {
+    "english": "Prayer",
+    "urdu": "نماز"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Prayer",
+    "urdu": "نماز"
+  },
+  {
+    "english": "Book",
+    "urdu": "کتاب"
+  },
+  {
+    "english": "Star",
+    "urdu": "ستارہ"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Mercy",
+    "urdu": "رحمت"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Charity",
+    "urdu": "صدقہ"
+  },
+  {
+    "english": "Sad",
+    "urdu": "اداس"
+  },
+  {
+    "english": "Piety",
+    "urdu": "تقویٰ"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Sunnah",
+    "urdu": "سنت"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Teacher",
+    "urdu": "استاد"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Evening",
+    "urdu": "شام"
+  },
+  {
+    "english": "Zakat",
+    "urdu": "زکوٰۃ"
+  },
+  {
+    "english": "Dua",
+    "urdu": "دعا"
+  },
+  {
+    "english": "Home",
+    "urdu": "گھر"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Sunnah",
+    "urdu": "سنت"
+  },
+  {
+    "english": "Pen",
+    "urdu": "قلم"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Hadith",
+    "urdu": "حدیث"
+  },
+  {
+    "english": "Bad",
+    "urdu": "برا"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Table",
+    "urdu": "میز"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Hereafter",
+    "urdu": "آخرت"
+  },
+  {
+    "english": "Forgiveness",
+    "urdu": "معافی"
+  },
+  {
+    "english": "Sincerity",
+    "urdu": "اخلاص"
+  },
+  {
+    "english": "Pen",
+    "urdu": "قلم"
+  },
+  {
+    "english": "Hadith",
+    "urdu": "حدیث"
+  },
+  {
+    "english": "Road",
+    "urdu": "سڑک"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Allah",
+    "urdu": "اللہ"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Friend",
+    "urdu": "دوست"
+  },
+  {
+    "english": "Sun",
+    "urdu": "سورج"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Forgiveness",
+    "urdu": "معافی"
+  },
+  {
+    "english": "Kindness",
+    "urdu": "مہربانی"
+  },
+  {
+    "english": "Tea",
+    "urdu": "چائے"
+  },
+  {
+    "english": "Water",
+    "urdu": "پانی"
+  },
+  {
+    "english": "Table",
+    "urdu": "میز"
+  },
+  {
+    "english": "Tree",
+    "urdu": "درخت"
+  },
+  {
+    "english": "Hereafter",
+    "urdu": "آخرت"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Teacher",
+    "urdu": "استاد"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Teacher",
+    "urdu": "استاد"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Forgiveness",
+    "urdu": "معافی"
+  },
+  {
+    "english": "Food",
+    "urdu": "کھانا"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Star",
+    "urdu": "ستارہ"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Book",
+    "urdu": "کتاب"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Flower",
+    "urdu": "پھول"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Car",
+    "urdu": "گاڑی"
+  },
+  {
+    "english": "Tea",
+    "urdu": "چائے"
+  },
+  {
+    "english": "Bad",
+    "urdu": "برا"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Faith",
+    "urdu": "ایمان"
+  },
+  {
+    "english": "Happy",
+    "urdu": "خوش"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Food",
+    "urdu": "کھانا"
+  },
+  {
+    "english": "Sincerity",
+    "urdu": "اخلاص"
+  },
+  {
+    "english": "Repentance",
+    "urdu": "توبہ"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Hadith",
+    "urdu": "حدیث"
+  },
+  {
+    "english": "Zakat",
+    "urdu": "زکوٰۃ"
+  },
+  {
+    "english": "Honesty",
+    "urdu": "ایمانداری"
+  },
+  {
+    "english": "Honesty",
+    "urdu": "ایمانداری"
+  },
+  {
+    "english": "Sad",
+    "urdu": "اداس"
+  },
+  {
+    "english": "Table",
+    "urdu": "میز"
+  },
+  {
+    "english": "Tree",
+    "urdu": "درخت"
+  },
+  {
+    "english": "Bad",
+    "urdu": "برا"
+  },
+  {
+    "english": "Charity",
+    "urdu": "صدقہ"
+  },
+  {
+    "english": "Friend",
+    "urdu": "دوست"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Book",
+    "urdu": "کتاب"
+  },
+  {
+    "english": "Mosque",
+    "urdu": "مسجد"
+  },
+  {
+    "english": "Evening",
+    "urdu": "شام"
+  },
+  {
+    "english": "Flower",
+    "urdu": "پھول"
+  },
+  {
+    "english": "Mosque",
+    "urdu": "مسجد"
+  },
+  {
+    "english": "Paradise",
+    "urdu": "جنت"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Home",
+    "urdu": "گھر"
+  },
+  {
+    "english": "Justice",
+    "urdu": "عدل"
+  },
+  {
+    "english": "Repentance",
+    "urdu": "توبہ"
+  },
+  {
+    "english": "Charity",
+    "urdu": "صدقہ"
+  },
+  {
+    "english": "Sincerity",
+    "urdu": "اخلاص"
+  },
+  {
+    "english": "Truth",
+    "urdu": "سچائی"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Truth",
+    "urdu": "سچائی"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Prayer",
+    "urdu": "نماز"
+  },
+  {
+    "english": "Piety",
+    "urdu": "تقویٰ"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Book",
+    "urdu": "کتاب"
+  },
+  {
+    "english": "Day",
+    "urdu": "دن"
+  },
+  {
+    "english": "Honesty",
+    "urdu": "ایمانداری"
+  },
+  {
+    "english": "Forgiveness",
+    "urdu": "معافی"
+  },
+  {
+    "english": "Truth",
+    "urdu": "سچائی"
+  },
+  {
+    "english": "Piety",
+    "urdu": "تقویٰ"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Tea",
+    "urdu": "چائے"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Mosque",
+    "urdu": "مسجد"
+  },
+  {
+    "english": "Zakat",
+    "urdu": "زکوٰۃ"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Mosque",
+    "urdu": "مسجد"
+  },
+  {
+    "english": "Table",
+    "urdu": "میز"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Umrah",
+    "urdu": "عمرہ"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Justice",
+    "urdu": "عدل"
+  },
+  {
+    "english": "Tree",
+    "urdu": "درخت"
+  },
+  {
+    "english": "Forgiveness",
+    "urdu": "معافی"
+  },
+  {
+    "english": "Honesty",
+    "urdu": "ایمانداری"
+  },
+  {
+    "english": "Tea",
+    "urdu": "چائے"
+  },
+  {
+    "english": "Moon",
+    "urdu": "چاند"
+  },
+  {
+    "english": "Table",
+    "urdu": "میز"
+  },
+  {
+    "english": "Teacher",
+    "urdu": "استاد"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Prayer",
+    "urdu": "نماز"
+  },
+  {
+    "english": "Table",
+    "urdu": "میز"
+  },
+  {
+    "english": "Allah",
+    "urdu": "اللہ"
+  },
+  {
+    "english": "Pen",
+    "urdu": "قلم"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Piety",
+    "urdu": "تقویٰ"
+  },
+  {
+    "english": "Flower",
+    "urdu": "پھول"
+  },
+  {
+    "english": "Kindness",
+    "urdu": "مہربانی"
+  },
+  {
+    "english": "Quran",
+    "urdu": "قرآن"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Tree",
+    "urdu": "درخت"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Book",
+    "urdu": "کتاب"
+  },
+  {
+    "english": "Day",
+    "urdu": "دن"
+  },
+  {
+    "english": "Teacher",
+    "urdu": "استاد"
+  },
+  {
+    "english": "Teacher",
+    "urdu": "استاد"
+  },
+  {
+    "english": "Forgiveness",
+    "urdu": "معافی"
+  },
+  {
+    "english": "Water",
+    "urdu": "پانی"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Justice",
+    "urdu": "عدل"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Teacher",
+    "urdu": "استاد"
+  },
+  {
+    "english": "Road",
+    "urdu": "سڑک"
+  },
+  {
+    "english": "Friend",
+    "urdu": "دوست"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Tea",
+    "urdu": "چائے"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Pen",
+    "urdu": "قلم"
+  },
+  {
+    "english": "Food",
+    "urdu": "کھانا"
+  },
+  {
+    "english": "Evening",
+    "urdu": "شام"
+  },
+  {
+    "english": "Paradise",
+    "urdu": "جنت"
+  },
+  {
+    "english": "Evening",
+    "urdu": "شام"
+  },
+  {
+    "english": "Moon",
+    "urdu": "چاند"
+  },
+  {
+    "english": "Teacher",
+    "urdu": "استاد"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Happy",
+    "urdu": "خوش"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Moon",
+    "urdu": "چاند"
+  },
+  {
+    "english": "Sincerity",
+    "urdu": "اخلاص"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Sun",
+    "urdu": "سورج"
+  },
+  {
+    "english": "Faith",
+    "urdu": "ایمان"
+  },
+  {
+    "english": "Road",
+    "urdu": "سڑک"
+  },
+  {
+    "english": "Piety",
+    "urdu": "تقویٰ"
+  },
+  {
+    "english": "Hadith",
+    "urdu": "حدیث"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Faith",
+    "urdu": "ایمان"
+  },
+  {
+    "english": "Teacher",
+    "urdu": "استاد"
+  },
+  {
+    "english": "Sun",
+    "urdu": "سورج"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Tea",
+    "urdu": "چائے"
+  },
+  {
+    "english": "Paradise",
+    "urdu": "جنت"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Tea",
+    "urdu": "چائے"
+  },
+  {
+    "english": "Piety",
+    "urdu": "تقویٰ"
+  },
+  {
+    "english": "Sun",
+    "urdu": "سورج"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Sun",
+    "urdu": "سورج"
+  },
+  {
+    "english": "Good",
+    "urdu": "اچھا"
+  },
+  {
+    "english": "Tree",
+    "urdu": "درخت"
+  },
+  {
+    "english": "Honesty",
+    "urdu": "ایمانداری"
+  },
+  {
+    "english": "Justice",
+    "urdu": "عدل"
+  },
+  {
+    "english": "Teacher",
+    "urdu": "استاد"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Truth",
+    "urdu": "سچائی"
+  },
+  {
+    "english": "Truth",
+    "urdu": "سچائی"
+  },
+  {
+    "english": "Evening",
+    "urdu": "شام"
+  },
+  {
+    "english": "Home",
+    "urdu": "گھر"
+  },
+  {
+    "english": "Food",
+    "urdu": "کھانا"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Car",
+    "urdu": "گاڑی"
+  },
+  {
+    "english": "Home",
+    "urdu": "گھر"
+  },
+  {
+    "english": "Faith",
+    "urdu": "ایمان"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Truth",
+    "urdu": "سچائی"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Zakat",
+    "urdu": "زکوٰۃ"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Faith",
+    "urdu": "ایمان"
+  },
+  {
+    "english": "Evening",
+    "urdu": "شام"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Good",
+    "urdu": "اچھا"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Hereafter",
+    "urdu": "آخرت"
+  },
+  {
+    "english": "Truth",
+    "urdu": "سچائی"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Mosque",
+    "urdu": "مسجد"
+  },
+  {
+    "english": "Mosque",
+    "urdu": "مسجد"
+  },
+  {
+    "english": "Moon",
+    "urdu": "چاند"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Hereafter",
+    "urdu": "آخرت"
+  },
+  {
+    "english": "Sincerity",
+    "urdu": "اخلاص"
+  },
+  {
+    "english": "Evening",
+    "urdu": "شام"
+  },
+  {
+    "english": "Book",
+    "urdu": "کتاب"
+  },
+  {
+    "english": "Allah",
+    "urdu": "اللہ"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Paradise",
+    "urdu": "جنت"
+  },
+  {
+    "english": "Tea",
+    "urdu": "چائے"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Good",
+    "urdu": "اچھا"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Hereafter",
+    "urdu": "آخرت"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Mercy",
+    "urdu": "رحمت"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Repentance",
+    "urdu": "توبہ"
+  },
+  {
+    "english": "Mercy",
+    "urdu": "رحمت"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Tree",
+    "urdu": "درخت"
+  },
+  {
+    "english": "Intention",
+    "urdu": "نیت"
+  },
+  {
+    "english": "Table",
+    "urdu": "میز"
+  },
+  {
+    "english": "Tea",
+    "urdu": "چائے"
+  },
+  {
+    "english": "Sad",
+    "urdu": "اداس"
+  },
+  {
+    "english": "Umrah",
+    "urdu": "عمرہ"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Forgiveness",
+    "urdu": "معافی"
+  },
+  {
+    "english": "Justice",
+    "urdu": "عدل"
+  },
+  {
+    "english": "Star",
+    "urdu": "ستارہ"
+  },
+  {
+    "english": "Bad",
+    "urdu": "برا"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Home",
+    "urdu": "گھر"
+  },
+  {
+    "english": "Water",
+    "urdu": "پانی"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Star",
+    "urdu": "ستارہ"
+  },
+  {
+    "english": "Happy",
+    "urdu": "خوش"
+  },
+  {
+    "english": "Car",
+    "urdu": "گاڑی"
+  },
+  {
+    "english": "Allah",
+    "urdu": "اللہ"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Sincerity",
+    "urdu": "اخلاص"
+  },
+  {
+    "english": "Repentance",
+    "urdu": "توبہ"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Home",
+    "urdu": "گھر"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Justice",
+    "urdu": "عدل"
+  },
+  {
+    "english": "Day",
+    "urdu": "دن"
+  },
+  {
+    "english": "Kindness",
+    "urdu": "مہربانی"
+  },
+  {
+    "english": "Umrah",
+    "urdu": "عمرہ"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Repentance",
+    "urdu": "توبہ"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Car",
+    "urdu": "گاڑی"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Sincerity",
+    "urdu": "اخلاص"
+  },
+  {
+    "english": "Hereafter",
+    "urdu": "آخرت"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Water",
+    "urdu": "پانی"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Home",
+    "urdu": "گھر"
+  },
+  {
+    "english": "Faith",
+    "urdu": "ایمان"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Kindness",
+    "urdu": "مہربانی"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Umrah",
+    "urdu": "عمرہ"
+  },
+  {
+    "english": "Water",
+    "urdu": "پانی"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Hereafter",
+    "urdu": "آخرت"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Evening",
+    "urdu": "شام"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Day",
+    "urdu": "دن"
+  },
+  {
+    "english": "Hadith",
+    "urdu": "حدیث"
+  },
+  {
+    "english": "Allah",
+    "urdu": "اللہ"
+  },
+  {
+    "english": "Pen",
+    "urdu": "قلم"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Paradise",
+    "urdu": "جنت"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Hereafter",
+    "urdu": "آخرت"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Tree",
+    "urdu": "درخت"
+  },
+  {
+    "english": "Food",
+    "urdu": "کھانا"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Tree",
+    "urdu": "درخت"
+  },
+  {
+    "english": "Sad",
+    "urdu": "اداس"
+  },
+  {
+    "english": "Good",
+    "urdu": "اچھا"
+  },
+  {
+    "english": "Friend",
+    "urdu": "دوست"
+  },
+  {
+    "english": "Mercy",
+    "urdu": "رحمت"
+  },
+  {
+    "english": "Sad",
+    "urdu": "اداس"
+  },
+  {
+    "english": "Quran",
+    "urdu": "قرآن"
+  },
+  {
+    "english": "Umrah",
+    "urdu": "عمرہ"
+  },
+  {
+    "english": "Food",
+    "urdu": "کھانا"
+  },
+  {
+    "english": "Happy",
+    "urdu": "خوش"
+  },
+  {
+    "english": "Quran",
+    "urdu": "قرآن"
+  },
+  {
+    "english": "Hadith",
+    "urdu": "حدیث"
+  },
+  {
+    "english": "Flower",
+    "urdu": "پھول"
+  },
+  {
+    "english": "Allah",
+    "urdu": "اللہ"
+  },
+  {
+    "english": "Patience",
+    "urdu": "صبر"
+  },
+  {
+    "english": "Humility",
+    "urdu": "عجز"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Honesty",
+    "urdu": "ایمانداری"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Book",
+    "urdu": "کتاب"
+  },
+  {
+    "english": "Prayer",
+    "urdu": "نماز"
+  },
+  {
+    "english": "Morning",
+    "urdu": "صبح"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Hereafter",
+    "urdu": "آخرت"
+  },
+  {
+    "english": "Water",
+    "urdu": "پانی"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Mosque",
+    "urdu": "مسجد"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Day",
+    "urdu": "دن"
+  },
+  {
+    "english": "Sunnah",
+    "urdu": "سنت"
+  },
+  {
+    "english": "Flower",
+    "urdu": "پھول"
+  },
+  {
+    "english": "Water",
+    "urdu": "پانی"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Flower",
+    "urdu": "پھول"
+  },
+  {
+    "english": "Truth",
+    "urdu": "سچائی"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Mosque",
+    "urdu": "مسجد"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Prayer",
+    "urdu": "نماز"
+  },
+  {
+    "english": "Car",
+    "urdu": "گاڑی"
+  },
+  {
+    "english": "Book",
+    "urdu": "کتاب"
+  },
+  {
+    "english": "Good",
+    "urdu": "اچھا"
+  },
+  {
+    "english": "Car",
+    "urdu": "گاڑی"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Allah",
+    "urdu": "اللہ"
+  },
+  {
+    "english": "Honesty",
+    "urdu": "ایمانداری"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Sun",
+    "urdu": "سورج"
+  },
+  {
+    "english": "Road",
+    "urdu": "سڑک"
+  },
+  {
+    "english": "Dua",
+    "urdu": "دعا"
+  },
+  {
+    "english": "Moon",
+    "urdu": "چاند"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Forgiveness",
+    "urdu": "معافی"
+  },
+  {
+    "english": "Tree",
+    "urdu": "درخت"
+  },
+  {
+    "english": "Faith",
+    "urdu": "ایمان"
+  },
+  {
+    "english": "Truth",
+    "urdu": "سچائی"
+  },
+  {
+    "english": "Hereafter",
+    "urdu": "آخرت"
+  },
+  {
+    "english": "Day",
+    "urdu": "دن"
+  },
+  {
+    "english": "Flower",
+    "urdu": "پھول"
+  },
+  {
+    "english": "Repentance",
+    "urdu": "توبہ"
+  },
+  {
+    "english": "Bad",
+    "urdu": "برا"
+  },
+  {
+    "english": "Day",
+    "urdu": "دن"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Water",
+    "urdu": "پانی"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Bus",
+    "urdu": "بس"
+  },
+  {
+    "english": "Milk",
+    "urdu": "دودھ"
+  },
+  {
+    "english": "Teacher",
+    "urdu": "استاد"
+  },
+  {
+    "english": "Water",
+    "urdu": "پانی"
+  },
+  {
+    "english": "Home",
+    "urdu": "گھر"
+  },
+  {
+    "english": "Sad",
+    "urdu": "اداس"
+  },
+  {
+    "english": "Hadith",
+    "urdu": "حدیث"
+  },
+  {
+    "english": "Friend",
+    "urdu": "دوست"
+  },
+  {
+    "english": "Allah",
+    "urdu": "اللہ"
+  },
+  {
+    "english": "Water",
+    "urdu": "پانی"
+  },
+  {
+    "english": "Pen",
+    "urdu": "قلم"
+  },
+  {
+    "english": "Bad",
+    "urdu": "برا"
+  },
+  {
+    "english": "Star",
+    "urdu": "ستارہ"
+  },
+  {
+    "english": "Sad",
+    "urdu": "اداس"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Star",
+    "urdu": "ستارہ"
+  },
+  {
+    "english": "Charity",
+    "urdu": "صدقہ"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Flower",
+    "urdu": "پھول"
+  },
+  {
+    "english": "Book",
+    "urdu": "کتاب"
+  },
+  {
+    "english": "Mercy",
+    "urdu": "رحمت"
+  },
+  {
+    "english": "Car",
+    "urdu": "گاڑی"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
   },
   {
     "english": "Hajj",
@@ -156,3847 +3504,499 @@
     "urdu": "عمرہ"
   },
   {
-    "english": "Heart",
-    "urdu": "قلب"
+    "english": "Kindness",
+    "urdu": "مہربانی"
   },
   {
-    "english": "Soul",
-    "urdu": "روح"
+    "english": "Repentance",
+    "urdu": "توبہ"
   },
   {
-    "english": "Nafs",
-    "urdu": "نفس"
+    "english": "Fasting",
+    "urdu": "روزہ"
   },
   {
-    "english": "Trust",
-    "urdu": "امانت"
+    "english": "Tea",
+    "urdu": "چائے"
   },
   {
-    "english": "Rights",
-    "urdu": "حقوق"
+    "english": "Evening",
+    "urdu": "شام"
   },
   {
-    "english": "Love",
-    "urdu": "محبت"
-  },
-  {
-    "english": "Fear (of God)",
-    "urdu": "خوف"
-  },
-  {
-    "english": "Modesty",
-    "urdu": "حیا"
-  },
-  {
-    "english": "Loyalty",
-    "urdu": "وفا"
+    "english": "Mercy",
+    "urdu": "رحمت"
   },
   {
     "english": "Honesty",
     "urdu": "ایمانداری"
   },
   {
-    "english": "Compassion",
-    "urdu": "رحم"
+    "english": "Charity",
+    "urdu": "صدقہ"
   },
   {
-    "english": "Divine decree",
-    "urdu": "قضا"
+    "english": "Fasting",
+    "urdu": "روزہ"
   },
   {
-    "english": "Destiny",
-    "urdu": "تقدیر"
+    "english": "Morning",
+    "urdu": "صبح"
   },
   {
-    "english": "Scholars",
-    "urdu": "علماء"
+    "english": "Intention",
+    "urdu": "نیت"
   },
   {
-    "english": "Ummah",
-    "urdu": "امّت"
+    "english": "Prophet",
+    "urdu": "نبی"
   },
   {
-    "english": "Sahabah",
-    "urdu": "صحابہ"
-  },
-  {
-    "english": "Imam",
-    "urdu": "امام"
-  },
-  {
-    "english": "Faqih",
-    "urdu": "فقیہ"
-  },
-  {
-    "english": "Fatwa",
-    "urdu": "فتویٰ"
-  },
-  {
-    "english": "Fiqh",
-    "urdu": "فقہ"
-  },
-  {
-    "english": "Ijtihad",
-    "urdu": "اجتہاد"
-  },
-  {
-    "english": "Ijma",
-    "urdu": "اجماع"
-  },
-  {
-    "english": "Hudud",
-    "urdu": "حدود"
-  },
-  {
-    "english": "Judgement",
-    "urdu": "قضاوت"
-  },
-  {
-    "english": "Nikah",
-    "urdu": "نکاح"
-  },
-  {
-    "english": "Talaq",
-    "urdu": "طلاق"
-  },
-  {
-    "english": "Inheritance",
-    "urdu": "وراثت"
-  },
-  {
-    "english": "Waqf",
-    "urdu": "وقف"
-  },
-  {
-    "english": "Seerah",
-    "urdu": "سیرت"
-  },
-  {
-    "english": "Tableegh",
-    "urdu": "تبلیغ"
-  },
-  {
-    "english": "Dawah",
-    "urdu": "دعوت"
-  },
-  {
-    "english": "Pleasure (of Allah)",
-    "urdu": "رضا"
-  },
-  {
-    "english": "Reward",
-    "urdu": "ثواب"
-  },
-  {
-    "english": "Punishment",
-    "urdu": "عذاب"
-  },
-  {
-    "english": "Resurrection",
-    "urdu": "معاد"
-  },
-  {
-    "english": "Wisdom",
-    "urdu": "حکمت"
-  },
-  {
-    "english": "Morals",
-    "urdu": "اخلاق"
-  },
-  {
-    "english": "Righteous",
-    "urdu": "صالح"
-  },
-  {
-    "english": "Pardon",
-    "urdu": "بخشش"
-  },
-  {
-    "english": "Forgiveness",
-    "urdu": "عفو"
-  },
-  {
-    "english": "Honesty",
-    "urdu": "صِدق"
-  },
-  {
-    "english": "Brotherhood",
-    "urdu": "بھائی چارہ"
-  },
-  {
-    "english": "Intercession",
-    "urdu": "شفاعت"
-  },
-  {
-    "english": "Good deed",
-    "urdu": "نیکی"
-  },
-  {
-    "english": "Evil act",
-    "urdu": "برائی"
-  },
-  {
-    "english": "Justice and fairness",
-    "urdu": "عدل و انصاف"
-  },
-  {
-    "english": "Governance",
-    "urdu": "حکومت"
-  },
-  {
-    "english": "Shariah",
-    "urdu": "شریعت"
-  },
-  {
-    "english": "Benevolence",
-    "urdu": "احسان"
-  },
-  {
-    "english": "Holy Quran",
-    "urdu": "قراٰن مجید"
-  },
-  {
-    "english": "Memorization",
-    "urdu": "حفظ"
-  },
-  {
-    "english": "Recitation",
-    "urdu": "تلاوت"
-  },
-  {
-    "english": "Contemplation",
-    "urdu": "تدبر"
-  },
-  {
-    "english": "Self-accountability",
-    "urdu": "محاسبہ"
-  },
-  {
-    "english": "Purification",
-    "urdu": "تزکیہ"
-  },
-  {
-    "english": "Pure intention",
-    "urdu": "صدق نیت"
-  },
-  {
-    "english": "Selflessness",
-    "urdu": "ایثار"
-  },
-  {
-    "english": "Sincerity alt",
-    "urdu": "خلوص"
-  },
-  {
-    "english": "Contentment",
-    "urdu": "قناعت"
-  },
-  {
-    "english": "Humility",
-    "urdu": "عجز"
-  },
-  {
-    "english": "Arrogance",
-    "urdu": "تکبر"
-  },
-  {
-    "english": "Help",
-    "urdu": "مدد"
-  },
-  {
-    "english": "Service",
-    "urdu": "خدمت"
-  },
-  {
-    "english": "Service to humanity",
-    "urdu": "خدمتِ خلق"
-  },
-  {
-    "english": "Respect",
-    "urdu": "احترام"
-  },
-  {
-    "english": "Forbearance",
-    "urdu": "صبر و تحمل"
-  },
-  {
-    "english": "Preservation of chains (Isnad)",
-    "urdu": "حفظ الاسناد"
-  },
-  {
-    "english": "Isnad",
-    "urdu": "اسناد"
-  },
-  {
-    "english": "Matn",
-    "urdu": "متن"
-  },
-  {
-    "english": "Extraction (hadith)",
-    "urdu": "تخریج"
-  },
-  {
-    "english": "Muhaddith",
-    "urdu": "محدث"
-  },
-  {
-    "english": "Mufassir",
-    "urdu": "مفسر"
-  },
-  {
-    "english": "Rank",
-    "urdu": "مرتبہ"
-  },
-  {
-    "english": "Science of Hadith",
-    "urdu": "علمِ حدیث"
-  },
-  {
-    "english": "Upbringing",
-    "urdu": "تربیت"
+    "english": "Chair",
+    "urdu": "کرسی"
   },
   {
     "english": "Family",
     "urdu": "خاندان"
   },
   {
-    "english": "Child",
-    "urdu": "ولد"
+    "english": "Good",
+    "urdu": "اچھا"
   },
   {
-    "english": "Parents",
-    "urdu": "والدین"
+    "english": "Forgiveness",
+    "urdu": "معافی"
   },
   {
-    "english": "Rights of parents",
-    "urdu": "والدین کا حق"
-  },
-  {
-    "english": "Education of children",
-    "urdu": "تعلیمِ اولاد"
-  },
-  {
-    "english": "Relationship",
-    "urdu": "تعلق"
-  },
-  {
-    "english": "Kinship ties",
-    "urdu": "صلہ رحمی"
-  },
-  {
-    "english": "Tolerance",
-    "urdu": "رواداری"
-  },
-  {
-    "english": "Court/justice",
-    "urdu": "عدالت"
-  },
-  {
-    "english": "Lie",
-    "urdu": "جھوٹ"
-  },
-  {
-    "english": "Testimony",
-    "urdu": "گواہی"
-  },
-  {
-    "english": "Martyrdom",
-    "urdu": "شہادت"
-  },
-  {
-    "english": "Martyr",
-    "urdu": "شہید"
-  },
-  {
-    "english": "Covenant",
-    "urdu": "پیمان"
-  },
-  {
-    "english": "Trustworthiness",
-    "urdu": "امانتداری"
-  },
-  {
-    "english": "Faithfulness",
-    "urdu": "وفاداری"
+    "english": "Sincerity",
+    "urdu": "اخلاص"
   },
   {
     "english": "Truth",
     "urdu": "سچائی"
   },
   {
-    "english": "Heartfelt faith",
-    "urdu": "قلبی ایمان"
+    "english": "Sunnah",
+    "urdu": "سنت"
   },
   {
-    "english": "Sacrifice",
-    "urdu": "قربانی"
+    "english": "Hereafter",
+    "urdu": "آخرت"
+  },
+  {
+    "english": "Food",
+    "urdu": "کھانا"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Repentance",
+    "urdu": "توبہ"
+  },
+  {
+    "english": "Dua",
+    "urdu": "دعا"
+  },
+  {
+    "english": "Book",
+    "urdu": "کتاب"
+  },
+  {
+    "english": "Mercy",
+    "urdu": "رحمت"
+  },
+  {
+    "english": "Piety",
+    "urdu": "تقویٰ"
+  },
+  {
+    "english": "Friend",
+    "urdu": "دوست"
+  },
+  {
+    "english": "Door",
+    "urdu": "دروازہ"
+  },
+  {
+    "english": "Good",
+    "urdu": "اچھا"
+  },
+  {
+    "english": "Quran",
+    "urdu": "قرآن"
+  },
+  {
+    "english": "Bad",
+    "urdu": "برا"
+  },
+  {
+    "english": "Tea",
+    "urdu": "چائے"
+  },
+  {
+    "english": "Prophet",
+    "urdu": "نبی"
+  },
+  {
+    "english": "Hadith",
+    "urdu": "حدیث"
+  },
+  {
+    "english": "Kindness",
+    "urdu": "مہربانی"
+  },
+  {
+    "english": "Good",
+    "urdu": "اچھا"
+  },
+  {
+    "english": "Sunnah",
+    "urdu": "سنت"
+  },
+  {
+    "english": "Family",
+    "urdu": "خاندان"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Night",
+    "urdu": "رات"
+  },
+  {
+    "english": "Hadith",
+    "urdu": "حدیث"
+  },
+  {
+    "english": "Knowledge",
+    "urdu": "علم"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Faith",
+    "urdu": "ایمان"
+  },
+  {
+    "english": "Prayer",
+    "urdu": "نماز"
+  },
+  {
+    "english": "Bad",
+    "urdu": "برا"
+  },
+  {
+    "english": "Piety",
+    "urdu": "تقویٰ"
+  },
+  {
+    "english": "Forgiveness",
+    "urdu": "معافی"
+  },
+  {
+    "english": "Evening",
+    "urdu": "شام"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Road",
+    "urdu": "سڑک"
+  },
+  {
+    "english": "Student",
+    "urdu": "طالب علم"
+  },
+  {
+    "english": "Happy",
+    "urdu": "خوش"
+  },
+  {
+    "english": "Chair",
+    "urdu": "کرسی"
+  },
+  {
+    "english": "Table",
+    "urdu": "میز"
+  },
+  {
+    "english": "Star",
+    "urdu": "ستارہ"
+  },
+  {
+    "english": "Hajj",
+    "urdu": "حج"
+  },
+  {
+    "english": "Repentance",
+    "urdu": "توبہ"
+  },
+  {
+    "english": "Zakat",
+    "urdu": "زکوٰۃ"
+  },
+  {
+    "english": "Hell",
+    "urdu": "جہنم"
+  },
+  {
+    "english": "Fasting",
+    "urdu": "روزہ"
   },
   {
     "english": "Sincerity",
-    "urdu": "صدق"
+    "urdu": "اخلاص"
   },
   {
-    "english": "Regularity of prayer",
-    "urdu": "نماز کی پابندی"
+    "english": "Allah",
+    "urdu": "اللہ"
   },
   {
-    "english": "Punctuality",
-    "urdu": "وقت کی پابندی"
+    "english": "Day",
+    "urdu": "دن"
   },
   {
-    "english": "Lawful income",
-    "urdu": "حلال روزی"
+    "english": "Friend",
+    "urdu": "دوست"
   },
   {
-    "english": "Usury/Riba",
-    "urdu": "ربا"
+    "english": "Humility",
+    "urdu": "عجز"
   },
   {
-    "english": "Spending in way of Allah",
-    "urdu": "انفاق"
+    "english": "Water",
+    "urdu": "پانی"
   },
   {
-    "english": "Sponsorship",
-    "urdu": "کفالت"
+    "english": "Water",
+    "urdu": "پانی"
   },
   {
-    "english": "Forbearance",
-    "urdu": "حلم"
+    "english": "Humility",
+    "urdu": "عجز"
   },
   {
-    "english": "Patience alt",
-    "urdu": "بردباری"
+    "english": "Mosque",
+    "urdu": "مسجد"
   },
   {
-    "english": "Purity",
-    "urdu": "طہارت"
+    "english": "Knowledge",
+    "urdu": "علم"
   },
   {
-    "english": "Noble Hadith",
-    "urdu": "حدیث پاک"
+    "english": "Friend",
+    "urdu": "دوست"
   },
   {
-    "english": "Books of Hadith",
-    "urdu": "کتبِ حدیث"
+    "english": "Intention",
+    "urdu": "نیت"
   },
   {
-    "english": "Sect",
-    "urdu": "فرقہ"
+    "english": "Truth",
+    "urdu": "سچائی"
   },
   {
-    "english": "Schools of thought",
-    "urdu": "مذاہب"
+    "english": "Day",
+    "urdu": "دن"
   },
   {
-    "english": "Moral training",
-    "urdu": "اخلاقی تربیت"
+    "english": "Honesty",
+    "urdu": "ایمانداری"
   },
   {
-    "english": "Statement",
-    "urdu": "بیان"
+    "english": "Pen",
+    "urdu": "قلم"
   },
   {
-    "english": "Sermon",
-    "urdu": "موعظہ"
+    "english": "Table",
+    "urdu": "میز"
   },
   {
-    "english": "Responsibility",
-    "urdu": "ذمہ داری"
+    "english": "Good",
+    "urdu": "اچھا"
   },
   {
-    "english": "Volunteer",
-    "urdu": "رضاکار"
+    "english": "Door",
+    "urdu": "دروازہ"
   },
   {
-    "english": "Consultation",
-    "urdu": "مشورہ"
+    "english": "Hajj",
+    "urdu": "حج"
   },
   {
-    "english": "Shura",
-    "urdu": "شورا"
+    "english": "Dua",
+    "urdu": "دعا"
   },
   {
-    "english": "Goodness",
-    "urdu": "بھلائی"
+    "english": "Morning",
+    "urdu": "صبح"
   },
   {
-    "english": "Corruption",
-    "urdu": "خرابی"
+    "english": "Car",
+    "urdu": "گاڑی"
   },
   {
-    "english": "Believer",
-    "urdu": "مؤمن"
+    "english": "Hajj",
+    "urdu": "حج"
   },
   {
-    "english": "Female believer",
-    "urdu": "مؤمنہ"
+    "english": "Dua",
+    "urdu": "دعا"
   },
   {
-    "english": "Muslim",
-    "urdu": "مسلم"
+    "english": "Humility",
+    "urdu": "عجز"
   },
   {
-    "english": "Disbeliever",
-    "urdu": "کافر"
+    "english": "Food",
+    "urdu": "کھانا"
   },
   {
-    "english": "Hypocrite",
-    "urdu": "منافق"
+    "english": "Door",
+    "urdu": "دروازہ"
   },
   {
-    "english": "Creed",
-    "urdu": "عقیدہ"
+    "english": "Forgiveness",
+    "urdu": "معافی"
   },
   {
-    "english": "Tahajjud prayer",
-    "urdu": "نمازِ تہجد"
+    "english": "Hell",
+    "urdu": "جہنم"
   },
   {
-    "english": "Taraweeh prayer",
-    "urdu": "نمازِ تراویح"
+    "english": "Humility",
+    "urdu": "عجز"
   },
   {
-    "english": "Love of the Prophet",
-    "urdu": "محبت رسول"
+    "english": "Faith",
+    "urdu": "ایمان"
   },
   {
-    "english": "Affliction",
-    "urdu": "فتنہ"
+    "english": "Evening",
+    "urdu": "شام"
   },
   {
-    "english": "Allegiance",
-    "urdu": "بیعت"
+    "english": "Night",
+    "urdu": "رات"
   },
   {
-    "english": "Honor",
-    "urdu": "غیرت"
+    "english": "Kindness",
+    "urdu": "مہربانی"
   },
   {
-    "english": "Justice alt",
-    "urdu": "انصاف"
+    "english": "Forgiveness",
+    "urdu": "معافی"
   },
   {
-    "english": "Honor/respect",
-    "urdu": "عزت"
+    "english": "Intention",
+    "urdu": "نیت"
   },
   {
-    "english": "Humiliation",
-    "urdu": "ذلت"
+    "english": "Hadith",
+    "urdu": "حدیث"
   },
   {
-    "english": "Ceremony",
-    "urdu": "تقریب"
+    "english": "Sun",
+    "urdu": "سورج"
   },
   {
-    "english": "Generosity",
-    "urdu": "سخاوت"
+    "english": "Intention",
+    "urdu": "نیت"
   },
   {
-    "english": "Stinginess",
-    "urdu": "بخل"
+    "english": "Teacher",
+    "urdu": "استاد"
   },
   {
-    "english": "Right",
-    "urdu": "حق"
+    "english": "Humility",
+    "urdu": "عجز"
   },
   {
-    "english": "Falsehood",
-    "urdu": "باطل"
+    "english": "Quran",
+    "urdu": "قرآن"
   },
   {
-    "english": "Conflict",
-    "urdu": "نزاع"
+    "english": "Hadith",
+    "urdu": "حدیث"
   },
   {
-    "english": "Reconciliation",
-    "urdu": "صلح"
+    "english": "Intention",
+    "urdu": "نیت"
   },
   {
-    "english": "Remembrance of Allah",
-    "urdu": "اللہ کی یاد"
+    "english": "Family",
+    "urdu": "خاندان"
   },
   {
-    "english": "Night vigil",
-    "urdu": "شب بیداری"
+    "english": "Student",
+    "urdu": "طالب علم"
   },
   {
-    "english": "Society",
-    "urdu": "معاشرت"
+    "english": "Allah",
+    "urdu": "اللہ"
   },
   {
-    "english": "Inner peace",
-    "urdu": "قلبی سکون"
+    "english": "Dua",
+    "urdu": "دعا"
   },
   {
-    "english": "Supplication for guidance",
-    "urdu": "دعائے ہدایت"
+    "english": "Mercy",
+    "urdu": "رحمت"
   },
   {
-    "english": "Blessing",
-    "urdu": "فضل"
+    "english": "Repentance",
+    "urdu": "توبہ"
   },
   {
-    "english": "Sin",
-    "urdu": "گناہ"
+    "english": "Home",
+    "urdu": "گھر"
   },
   {
-    "english": "Eid al-Adha",
-    "urdu": "قربانی کا جشن"
+    "english": "Happy",
+    "urdu": "خوش"
   },
   {
-    "english": "Eid al-Fitr",
-    "urdu": "روزہ کا عید"
+    "english": "Kindness",
+    "urdu": "مہربانی"
   },
   {
-    "english": "Nobility",
-    "urdu": "مروت"
+    "english": "Bus",
+    "urdu": "بس"
   },
   {
-    "english": "Cleanliness",
-    "urdu": "پاکیزگی"
+    "english": "Day",
+    "urdu": "دن"
   },
   {
-    "english": "Nearness",
-    "urdu": "قرب"
+    "english": "Truth",
+    "urdu": "سچائی"
   },
   {
-    "english": "Light",
-    "urdu": "نور"
+    "english": "Sad",
+    "urdu": "اداس"
   },
   {
-    "english": "Guidance",
-    "urdu": "ہدایت"
+    "english": "Hajj",
+    "urdu": "حج"
   },
   {
-    "english": "Divine",
-    "urdu": "الہامی"
+    "english": "Sun",
+    "urdu": "سورج"
   },
   {
-    "english": "Miracle",
-    "urdu": "معجزہ"
-  },
-  {
-    "english": "Dua for forgiveness",
-    "urdu": "دعائے مغفرت"
-  },
-  {
-    "english": "Worship",
-    "urdu": "عبادت"
-  },
-  {
-    "english": "Devout",
-    "urdu": "عبادت گزار"
-  },
-  {
-    "english": "Thankfulness",
-    "urdu": "شکریہ"
-  },
-  {
-    "english": "Visitation",
-    "urdu": "زیارت"
-  },
-  {
-    "english": "Unrestricted hadith",
-    "urdu": "حدیث مطلقہ"
-  },
-  {
-    "english": "Restricted hadith",
-    "urdu": "حدیث مقیدہ"
-  },
-  {
-    "english": "Dispute",
-    "urdu": "نزاعہ"
-  },
-  {
-    "english": "Reform",
-    "urdu": "صلاح"
-  },
-  {
-    "english": "Quranic guidance",
-    "urdu": "قراٰنی ہدایت"
-  },
-  {
-    "english": "Actions",
-    "urdu": "اعمال"
-  },
-  {
-    "english": "True intention",
-    "urdu": "سچی نیت"
-  },
-  {
-    "english": "Prayer time",
-    "urdu": "نماز کا وقت"
-  },
-  {
-    "english": "Remembrances",
-    "urdu": "اذکار"
-  },
-  {
-    "english": "Seeking forgiveness",
-    "urdu": "استغفار"
-  },
-  {
-    "english": "Status of martyrdom",
-    "urdu": "شہادت کا مقام"
-  },
-  {
-    "english": "Remembrance practice",
-    "urdu": "ذکر و ذکر"
-  },
-  {
-    "english": "Collective",
-    "urdu": "اجتماعی"
-  },
-  {
-    "english": "Individual",
-    "urdu": "فردی"
-  },
-  {
-    "english": "Economic",
-    "urdu": "معاشی"
-  },
-  {
-    "english": "Political",
-    "urdu": "سیاسی"
-  },
-  {
-    "english": "Spiritual",
-    "urdu": "روحانی"
-  },
-  {
-    "english": "Educational",
-    "urdu": "تعلیمی"
-  },
-  {
-    "english": "Training-related",
-    "urdu": "تربیتی"
-  },
-  {
-    "english": "Justice-based",
-    "urdu": "عدل پر مبنی"
-  },
-  {
-    "english": "Requirement of trust",
-    "urdu": "امانت کا تقاضا"
-  },
-  {
-    "english": "Human dignity",
-    "urdu": "احترامِ انسانی"
-  },
-  {
-    "english": "Astute",
-    "urdu": "زیرک"
-  },
-  {
-    "english": "Practical wisdom",
-    "urdu": "حکمتِ عملی"
-  },
-  {
-    "english": "Courage",
-    "urdu": "حوصلہ"
-  },
-  {
-    "english": "Patience and fortitude",
-    "urdu": "صبر و ہمت"
-  },
-  {
-    "english": "Allah (act)",
-    "urdu": "اللہ (عادت)"
-  },
-  {
-    "english": "Faith (concept)",
-    "urdu": "ایمان (مفهوم)"
-  },
-  {
-    "english": "Prayer (practice)",
-    "urdu": "نماز (قانون)"
-  },
-  {
-    "english": "Fasting (act)",
-    "urdu": "روزہ (عمل)"
-  },
-  {
-    "english": "Zakat (rule)",
-    "urdu": "زکوٰۃ (مفهوم)"
-  },
-  {
-    "english": "Quran (virtue)",
-    "urdu": "قرآن (عمل)"
-  },
-  {
-    "english": "Hadith (habit)",
-    "urdu": "حدیث (اصول)"
-  },
-  {
-    "english": "Sunnah (rule)",
-    "urdu": "سنت (عمل)"
-  },
-  {
-    "english": "Prophet (practice)",
-    "urdu": "نبی (عمل)"
-  },
-  {
-    "english": "Messenger (rule)",
-    "urdu": "رسول (اصول)"
-  },
-  {
-    "english": "Mercy (habit)",
-    "urdu": "رحمت (قانون)"
-  },
-  {
-    "english": "Forgiveness (concept)",
-    "urdu": "عفو (عمل)"
-  },
-  {
-    "english": "Patience (practice)",
-    "urdu": "صبر (عمل)"
-  },
-  {
-    "english": "Gratitude (principle)",
-    "urdu": "شکر (اصول)"
-  },
-  {
-    "english": "Justice (virtue)",
-    "urdu": "عدل (خصلت)"
-  },
-  {
-    "english": "Sincerity (practice)",
-    "urdu": "اخلاص (مفهوم)"
-  },
-  {
-    "english": "Intention (habit)",
-    "urdu": "نیت (عادت)"
-  },
-  {
-    "english": "Deed (virtue)",
-    "urdu": "عمل (عمل)"
-  },
-  {
-    "english": "Truthfulness (rule)",
-    "urdu": "صدق (خصلت)"
-  },
-  {
-    "english": "Halal (habit)",
-    "urdu": "حلال (اصول)"
-  },
-  {
-    "english": "Haram (concept)",
-    "urdu": "حرام (عمل)"
-  },
-  {
-    "english": "Piety (virtue)",
-    "urdu": "تقویٰ (عمل)"
-  },
-  {
-    "english": "Knowledge (principle)",
-    "urdu": "علم (عادت)"
-  },
-  {
-    "english": "Education (concept)",
-    "urdu": "تعلیم (عمل)"
-  },
-  {
-    "english": "Mosque (rule)",
-    "urdu": "مسجد (عادت)"
-  },
-  {
-    "english": "Wudu (rule)",
-    "urdu": "وضو (مفهوم)"
-  },
-  {
-    "english": "Sajdah (practice)",
-    "urdu": "سجدہ (قانون)"
-  },
-  {
-    "english": "Ruku (virtue)",
-    "urdu": "رکوع (قانون)"
-  },
-  {
-    "english": "Adhan (practice)",
-    "urdu": "اذان (عادت)"
-  },
-  {
-    "english": "Paradise (habit)",
-    "urdu": "جنت (مفهوم)"
-  },
-  {
-    "english": "Hell (concept)",
-    "urdu": "جہنم (مفهوم)"
-  },
-  {
-    "english": "Hereafter (act)",
-    "urdu": "آخرت (قانون)"
-  },
-  {
-    "english": "Day of Judgment (practice)",
-    "urdu": "قیامت (عادت)"
-  },
-  {
-    "english": "Repentance (practice)",
-    "urdu": "توبہ (عمل)"
-  },
-  {
-    "english": "Dhikr (act)",
-    "urdu": "ذکر (خصلت)"
-  },
-  {
-    "english": "Dua (act)",
-    "urdu": "دعا (عمل)"
-  },
-  {
-    "english": "Sadaqah (rule)",
-    "urdu": "صدقہ (قانون)"
-  },
-  {
-    "english": "Hajj (habit)",
-    "urdu": "حج (خصلت)"
-  },
-  {
-    "english": "Umrah (virtue)",
-    "urdu": "عمرہ (خصلت)"
-  },
-  {
-    "english": "Heart (virtue)",
-    "urdu": "قلب (عادت)"
-  },
-  {
-    "english": "Soul (practice)",
-    "urdu": "روح (اصول)"
-  },
-  {
-    "english": "Nafs (habit)",
-    "urdu": "نفس (عمل)"
-  },
-  {
-    "english": "Trust (act)",
-    "urdu": "امانت (عمل)"
-  },
-  {
-    "english": "Rights (practice)",
-    "urdu": "حقوق (قانون)"
-  },
-  {
-    "english": "Love (habit)",
-    "urdu": "محبت (عمل)"
-  },
-  {
-    "english": "Fear (of God) (act)",
-    "urdu": "خوف (عمل)"
-  },
-  {
-    "english": "Modesty (act)",
-    "urdu": "حیا (خصلت)"
-  },
-  {
-    "english": "Loyalty (practice)",
-    "urdu": "وفا (عمل)"
-  },
-  {
-    "english": "Honesty (principle)",
-    "urdu": "ایمانداری (مفهوم)"
-  },
-  {
-    "english": "Compassion (principle)",
-    "urdu": "رحم (عادت)"
-  },
-  {
-    "english": "Divine decree (virtue)",
-    "urdu": "قضا (عمل)"
-  },
-  {
-    "english": "Destiny (principle)",
-    "urdu": "تقدیر (مفهوم)"
-  },
-  {
-    "english": "Scholars (virtue)",
-    "urdu": "علماء (قانون)"
-  },
-  {
-    "english": "Ummah (practice)",
-    "urdu": "امّت (عمل)"
-  },
-  {
-    "english": "Sahabah (habit)",
-    "urdu": "صحابہ (قانون)"
-  },
-  {
-    "english": "Imam (practice)",
-    "urdu": "امام (عمل)"
-  },
-  {
-    "english": "Faqih (virtue)",
-    "urdu": "فقیہ (مفهوم)"
-  },
-  {
-    "english": "Fatwa (act)",
-    "urdu": "فتویٰ (عمل)"
-  },
-  {
-    "english": "Fiqh (principle)",
-    "urdu": "فقہ (اصول)"
-  },
-  {
-    "english": "Ijtihad (virtue)",
-    "urdu": "اجتہاد (خصلت)"
-  },
-  {
-    "english": "Ijma (virtue)",
-    "urdu": "اجماع (قانون)"
-  },
-  {
-    "english": "Hudud (principle)",
-    "urdu": "حدود (عادت)"
-  },
-  {
-    "english": "Judgement (principle)",
-    "urdu": "قضاوت (قانون)"
-  },
-  {
-    "english": "Nikah (practice)",
-    "urdu": "نکاح (عمل)"
-  },
-  {
-    "english": "Talaq (act)",
-    "urdu": "طلاق (قانون)"
-  },
-  {
-    "english": "Inheritance (habit)",
-    "urdu": "وراثت (مفهوم)"
-  },
-  {
-    "english": "Waqf (principle)",
-    "urdu": "وقف (عادت)"
-  },
-  {
-    "english": "Seerah (concept)",
-    "urdu": "سیرت (قانون)"
-  },
-  {
-    "english": "Tableegh (practice)",
-    "urdu": "تبلیغ (قانون)"
-  },
-  {
-    "english": "Dawah (act)",
-    "urdu": "دعوت (مفهوم)"
-  },
-  {
-    "english": "Pleasure (of Allah) (rule)",
-    "urdu": "رضا (عمل)"
-  },
-  {
-    "english": "Reward (principle)",
-    "urdu": "ثواب (عمل)"
-  },
-  {
-    "english": "Punishment (concept)",
-    "urdu": "عذاب (عمل)"
-  },
-  {
-    "english": "Resurrection (principle)",
-    "urdu": "معاد (مفهوم)"
-  },
-  {
-    "english": "Wisdom (principle)",
-    "urdu": "حکمت (عمل)"
-  },
-  {
-    "english": "Morals (habit)",
-    "urdu": "اخلاق (اصول)"
-  },
-  {
-    "english": "Righteous (concept)",
-    "urdu": "صالح (مفهوم)"
-  },
-  {
-    "english": "Pardon (rule)",
-    "urdu": "بخشش (عمل)"
-  },
-  {
-    "english": "Forgiveness (practice)",
-    "urdu": "عفو (قانون)"
-  },
-  {
-    "english": "Honesty (principle)",
-    "urdu": "صِدق (خصلت)"
-  },
-  {
-    "english": "Brotherhood (habit)",
-    "urdu": "بھائی چارہ (قانون)"
-  },
-  {
-    "english": "Intercession (habit)",
-    "urdu": "شفاعت (عمل)"
-  },
-  {
-    "english": "Good deed (concept)",
-    "urdu": "نیکی (مفهوم)"
-  },
-  {
-    "english": "Evil act (virtue)",
-    "urdu": "برائی (خصلت)"
-  },
-  {
-    "english": "Justice and fairness (concept)",
-    "urdu": "عدل و انصاف (عمل)"
-  },
-  {
-    "english": "Governance (virtue)",
-    "urdu": "حکومت (اصول)"
-  },
-  {
-    "english": "Shariah (rule)",
-    "urdu": "شریعت (خصلت)"
-  },
-  {
-    "english": "Benevolence (virtue)",
-    "urdu": "احسان (مفهوم)"
-  },
-  {
-    "english": "Holy Quran (practice)",
-    "urdu": "قراٰن مجید (مفهوم)"
-  },
-  {
-    "english": "Memorization (act)",
-    "urdu": "حفظ (خصلت)"
-  },
-  {
-    "english": "Recitation (practice)",
-    "urdu": "تلاوت (عمل)"
-  },
-  {
-    "english": "Contemplation (concept)",
-    "urdu": "تدبر (قانون)"
-  },
-  {
-    "english": "Self-accountability (rule)",
-    "urdu": "محاسبہ (قانون)"
-  },
-  {
-    "english": "Purification (habit)",
-    "urdu": "تزکیہ (عمل)"
-  },
-  {
-    "english": "Pure intention (concept)",
-    "urdu": "صدق نیت (عمل)"
-  },
-  {
-    "english": "Selflessness (practice)",
-    "urdu": "ایثار (خصلت)"
-  },
-  {
-    "english": "Sincerity alt (concept)",
-    "urdu": "خلوص (خصلت)"
-  },
-  {
-    "english": "Contentment (principle)",
-    "urdu": "قناعت (مفهوم)"
-  },
-  {
-    "english": "Humility (concept)",
-    "urdu": "عجز (اصول)"
-  },
-  {
-    "english": "Arrogance (act)",
-    "urdu": "تکبر (عمل)"
-  },
-  {
-    "english": "Help (act)",
-    "urdu": "مدد (عمل)"
-  },
-  {
-    "english": "Service (practice)",
-    "urdu": "خدمت (قانون)"
-  },
-  {
-    "english": "Service to humanity (rule)",
-    "urdu": "خدمتِ خلق (عادت)"
-  },
-  {
-    "english": "Respect (virtue)",
-    "urdu": "احترام (عادت)"
-  },
-  {
-    "english": "Forbearance (habit)",
-    "urdu": "صبر و تحمل (عادت)"
-  },
-  {
-    "english": "Preservation of chains (Isnad) (principle)",
-    "urdu": "حفظ الاسناد (عمل)"
-  },
-  {
-    "english": "Isnad (practice)",
-    "urdu": "اسناد (عمل)"
-  },
-  {
-    "english": "Matn (act)",
-    "urdu": "متن (عمل)"
-  },
-  {
-    "english": "Extraction (hadith) (principle)",
-    "urdu": "تخریج (عمل)"
-  },
-  {
-    "english": "Muhaddith (act)",
-    "urdu": "محدث (اصول)"
-  },
-  {
-    "english": "Mufassir (rule)",
-    "urdu": "مفسر (قانون)"
-  },
-  {
-    "english": "Rank (rule)",
-    "urdu": "مرتبہ (اصول)"
-  },
-  {
-    "english": "Science of Hadith (habit)",
-    "urdu": "علمِ حدیث (عمل)"
-  },
-  {
-    "english": "Upbringing (concept)",
-    "urdu": "تربیت (خصلت)"
-  },
-  {
-    "english": "Family (virtue)",
-    "urdu": "خاندان (عادت)"
-  },
-  {
-    "english": "Child (rule)",
-    "urdu": "ولد (عادت)"
-  },
-  {
-    "english": "Parents (act)",
-    "urdu": "والدین (عمل)"
-  },
-  {
-    "english": "Rights of parents (principle)",
-    "urdu": "والدین کا حق (خصلت)"
-  },
-  {
-    "english": "Education of children (rule)",
-    "urdu": "تعلیمِ اولاد (مفهوم)"
-  },
-  {
-    "english": "Relationship (rule)",
-    "urdu": "تعلق (مفهوم)"
-  },
-  {
-    "english": "Kinship ties (principle)",
-    "urdu": "صلہ رحمی (مفهوم)"
-  },
-  {
-    "english": "Tolerance (concept)",
-    "urdu": "رواداری (قانون)"
-  },
-  {
-    "english": "Court/justice (concept)",
-    "urdu": "عدالت (عادت)"
-  },
-  {
-    "english": "Lie (practice)",
-    "urdu": "جھوٹ (قانون)"
-  },
-  {
-    "english": "Testimony (act)",
-    "urdu": "گواہی (عمل)"
-  },
-  {
-    "english": "Martyrdom (act)",
-    "urdu": "شہادت (عادت)"
-  },
-  {
-    "english": "Martyr (habit)",
-    "urdu": "شہید (قانون)"
-  },
-  {
-    "english": "Covenant (habit)",
-    "urdu": "پیمان (عادت)"
-  },
-  {
-    "english": "Trustworthiness (practice)",
-    "urdu": "امانتداری (اصول)"
-  },
-  {
-    "english": "Faithfulness (practice)",
-    "urdu": "وفاداری (مفهوم)"
-  },
-  {
-    "english": "Truth (virtue)",
-    "urdu": "سچائی (عمل)"
-  },
-  {
-    "english": "Heartfelt faith (rule)",
-    "urdu": "قلبی ایمان (اصول)"
-  },
-  {
-    "english": "Sacrifice (rule)",
-    "urdu": "قربانی (عادت)"
-  },
-  {
-    "english": "Sincerity (practice)",
-    "urdu": "صدق (قانون)"
-  },
-  {
-    "english": "Regularity of prayer (practice)",
-    "urdu": "نماز کی پابندی (عادت)"
-  },
-  {
-    "english": "Punctuality (principle)",
-    "urdu": "وقت کی پابندی (خصلت)"
-  },
-  {
-    "english": "Lawful income (principle)",
-    "urdu": "حلال روزی (قانون)"
-  },
-  {
-    "english": "Usury/Riba (act)",
-    "urdu": "ربا (عمل)"
-  },
-  {
-    "english": "Spending in way of Allah (practice)",
-    "urdu": "انفاق (مفهوم)"
-  },
-  {
-    "english": "Sponsorship (principle)",
-    "urdu": "کفالت (خصلت)"
-  },
-  {
-    "english": "Forbearance (principle)",
-    "urdu": "حلم (مفهوم)"
-  },
-  {
-    "english": "Patience alt (principle)",
-    "urdu": "بردباری (قانون)"
-  },
-  {
-    "english": "Purity (principle)",
-    "urdu": "طہارت (عمل)"
-  },
-  {
-    "english": "Noble Hadith (act)",
-    "urdu": "حدیث پاک (عمل)"
-  },
-  {
-    "english": "Books of Hadith (virtue)",
-    "urdu": "کتبِ حدیث (خصلت)"
-  },
-  {
-    "english": "Sect (practice)",
-    "urdu": "فرقہ (مفهوم)"
-  },
-  {
-    "english": "Schools of thought (act)",
-    "urdu": "مذاہب (عادت)"
-  },
-  {
-    "english": "Moral training (rule)",
-    "urdu": "اخلاقی تربیت (عمل)"
-  },
-  {
-    "english": "Statement (habit)",
-    "urdu": "بیان (اصول)"
-  },
-  {
-    "english": "Sermon (principle)",
-    "urdu": "موعظہ (عمل)"
-  },
-  {
-    "english": "Responsibility (rule)",
-    "urdu": "ذمہ داری (مفهوم)"
-  },
-  {
-    "english": "Volunteer (virtue)",
-    "urdu": "رضاکار (خصلت)"
-  },
-  {
-    "english": "Consultation (principle)",
-    "urdu": "مشورہ (خصلت)"
-  },
-  {
-    "english": "Shura (principle)",
-    "urdu": "شورا (خصلت)"
-  },
-  {
-    "english": "Goodness (principle)",
-    "urdu": "بھلائی (عادت)"
-  },
-  {
-    "english": "Corruption (virtue)",
-    "urdu": "خرابی (عادت)"
-  },
-  {
-    "english": "Believer (act)",
-    "urdu": "مؤمن (خصلت)"
-  },
-  {
-    "english": "Female believer (principle)",
-    "urdu": "مؤمنہ (عمل)"
-  },
-  {
-    "english": "Muslim (concept)",
-    "urdu": "مسلم (اصول)"
-  },
-  {
-    "english": "Disbeliever (concept)",
-    "urdu": "کافر (عادت)"
-  },
-  {
-    "english": "Hypocrite (concept)",
-    "urdu": "منافق (عادت)"
-  },
-  {
-    "english": "Creed (principle)",
-    "urdu": "عقیدہ (اصول)"
-  },
-  {
-    "english": "Tahajjud prayer (principle)",
-    "urdu": "نمازِ تہجد (مفهوم)"
-  },
-  {
-    "english": "Taraweeh prayer (rule)",
-    "urdu": "نمازِ تراویح (عمل)"
-  },
-  {
-    "english": "Love of the Prophet (principle)",
-    "urdu": "محبت رسول (عمل)"
-  },
-  {
-    "english": "Affliction (concept)",
-    "urdu": "فتنہ (عمل)"
-  },
-  {
-    "english": "Allegiance (habit)",
-    "urdu": "بیعت (مفهوم)"
-  },
-  {
-    "english": "Honor (principle)",
-    "urdu": "غیرت (مفهوم)"
-  },
-  {
-    "english": "Justice alt (practice)",
-    "urdu": "انصاف (عادت)"
-  },
-  {
-    "english": "Honor/respect (concept)",
-    "urdu": "عزت (عمل)"
-  },
-  {
-    "english": "Humiliation (habit)",
-    "urdu": "ذلت (عمل)"
-  },
-  {
-    "english": "Ceremony (principle)",
-    "urdu": "تقریب (اصول)"
-  },
-  {
-    "english": "Generosity (principle)",
-    "urdu": "سخاوت (مفهوم)"
-  },
-  {
-    "english": "Stinginess (practice)",
-    "urdu": "بخل (عمل)"
-  },
-  {
-    "english": "Right (virtue)",
-    "urdu": "حق (مفهوم)"
-  },
-  {
-    "english": "Falsehood (virtue)",
-    "urdu": "باطل (عمل)"
-  },
-  {
-    "english": "Conflict (practice)",
-    "urdu": "نزاع (عمل)"
-  },
-  {
-    "english": "Reconciliation (principle)",
-    "urdu": "صلح (اصول)"
-  },
-  {
-    "english": "Remembrance of Allah (principle)",
-    "urdu": "اللہ کی یاد (عادت)"
-  },
-  {
-    "english": "Night vigil (virtue)",
-    "urdu": "شب بیداری (عمل)"
-  },
-  {
-    "english": "Society (practice)",
-    "urdu": "معاشرت (اصول)"
-  },
-  {
-    "english": "Inner peace (rule)",
-    "urdu": "قلبی سکون (مفهوم)"
-  },
-  {
-    "english": "Supplication for guidance (rule)",
-    "urdu": "دعائے ہدایت (قانون)"
-  },
-  {
-    "english": "Blessing (rule)",
-    "urdu": "فضل (خصلت)"
-  },
-  {
-    "english": "Sin (habit)",
-    "urdu": "گناہ (عمل)"
-  },
-  {
-    "english": "Eid al-Adha (practice)",
-    "urdu": "قربانی کا جشن (قانون)"
-  },
-  {
-    "english": "Eid al-Fitr (habit)",
-    "urdu": "روزہ کا عید (عمل)"
-  },
-  {
-    "english": "Nobility (virtue)",
-    "urdu": "مروت (عمل)"
-  },
-  {
-    "english": "Cleanliness (principle)",
-    "urdu": "پاکیزگی (عمل)"
-  },
-  {
-    "english": "Nearness (practice)",
-    "urdu": "قرب (عمل)"
-  },
-  {
-    "english": "Light (virtue)",
-    "urdu": "نور (عادت)"
-  },
-  {
-    "english": "Guidance (practice)",
-    "urdu": "ہدایت (قانون)"
-  },
-  {
-    "english": "Divine (act)",
-    "urdu": "الہامی (خصلت)"
-  },
-  {
-    "english": "Miracle (concept)",
-    "urdu": "معجزہ (عمل)"
-  },
-  {
-    "english": "Dua for forgiveness (virtue)",
-    "urdu": "دعائے مغفرت (عمل)"
-  },
-  {
-    "english": "Worship (virtue)",
-    "urdu": "عبادت (عادت)"
-  },
-  {
-    "english": "Devout (principle)",
-    "urdu": "عبادت گزار (عمل)"
-  },
-  {
-    "english": "Thankfulness (concept)",
-    "urdu": "شکریہ (قانون)"
-  },
-  {
-    "english": "Visitation (concept)",
-    "urdu": "زیارت (خصلت)"
-  },
-  {
-    "english": "Unrestricted hadith (habit)",
-    "urdu": "حدیث مطلقہ (مفهوم)"
-  },
-  {
-    "english": "Restricted hadith (habit)",
-    "urdu": "حدیث مقیدہ (عادت)"
-  },
-  {
-    "english": "Dispute (practice)",
-    "urdu": "نزاعہ (خصلت)"
-  },
-  {
-    "english": "Reform (principle)",
-    "urdu": "صلاح (عمل)"
-  },
-  {
-    "english": "Quranic guidance (virtue)",
-    "urdu": "قراٰنی ہدایت (عمل)"
-  },
-  {
-    "english": "Actions (practice)",
-    "urdu": "اعمال (اصول)"
-  },
-  {
-    "english": "True intention (act)",
-    "urdu": "سچی نیت (اصول)"
-  },
-  {
-    "english": "Prayer time (rule)",
-    "urdu": "نماز کا وقت (اصول)"
-  },
-  {
-    "english": "Remembrances (principle)",
-    "urdu": "اذکار (عادت)"
-  },
-  {
-    "english": "Seeking forgiveness (rule)",
-    "urdu": "استغفار (عادت)"
-  },
-  {
-    "english": "Status of martyrdom (virtue)",
-    "urdu": "شہادت کا مقام (عمل)"
-  },
-  {
-    "english": "Remembrance practice (practice)",
-    "urdu": "ذکر و ذکر (خصلت)"
-  },
-  {
-    "english": "Collective (concept)",
-    "urdu": "اجتماعی (عادت)"
-  },
-  {
-    "english": "Individual (habit)",
-    "urdu": "فردی (قانون)"
-  },
-  {
-    "english": "Economic (principle)",
-    "urdu": "معاشی (عمل)"
-  },
-  {
-    "english": "Political (practice)",
-    "urdu": "سیاسی (اصول)"
-  },
-  {
-    "english": "Spiritual (practice)",
-    "urdu": "روحانی (قانون)"
-  },
-  {
-    "english": "Educational (habit)",
-    "urdu": "تعلیمی (عمل)"
-  },
-  {
-    "english": "Training-related (act)",
-    "urdu": "تربیتی (اصول)"
-  },
-  {
-    "english": "Justice-based (act)",
-    "urdu": "عدل پر مبنی (مفهوم)"
-  },
-  {
-    "english": "Requirement of trust (principle)",
-    "urdu": "امانت کا تقاضا (عمل)"
-  },
-  {
-    "english": "Human dignity (habit)",
-    "urdu": "احترامِ انسانی (خصلت)"
-  },
-  {
-    "english": "Astute (habit)",
-    "urdu": "زیرک (عادت)"
-  },
-  {
-    "english": "Practical wisdom (concept)",
-    "urdu": "حکمتِ عملی (عمل)"
-  },
-  {
-    "english": "Courage (act)",
-    "urdu": "حوصلہ (مفهوم)"
-  },
-  {
-    "english": "Patience and fortitude (act)",
-    "urdu": "صبر و ہمت (اصول)"
-  },
-  {
-    "english": "Allah (concept)",
-    "urdu": "اللہ (مفهوم)"
-  },
-  {
-    "english": "Faith (act)",
-    "urdu": "ایمان (عمل)"
-  },
-  {
-    "english": "Prayer (habit)",
-    "urdu": "نماز (عادت)"
-  },
-  {
-    "english": "Fasting (practice)",
-    "urdu": "روزہ (قانون)"
-  },
-  {
-    "english": "Zakat (virtue)",
-    "urdu": "زکوٰۃ (خصلت)"
-  },
-  {
-    "english": "Quran (act)",
-    "urdu": "قرآن (اصول)"
-  },
-  {
-    "english": "Hadith (concept)",
-    "urdu": "حدیث (اصول)"
-  },
-  {
-    "english": "Sunnah (act)",
-    "urdu": "سنت (عمل)"
-  },
-  {
-    "english": "Prophet (rule)",
-    "urdu": "نبی (عادت)"
-  },
-  {
-    "english": "Messenger (act)",
-    "urdu": "رسول (مفهوم)"
-  },
-  {
-    "english": "Mercy (concept)",
-    "urdu": "رحمت (عمل)"
-  },
-  {
-    "english": "Forgiveness (act)",
-    "urdu": "عفو (خصلت)"
-  },
-  {
-    "english": "Patience (practice)",
-    "urdu": "صبر (مفهوم)"
-  },
-  {
-    "english": "Gratitude (practice)",
-    "urdu": "شکر (عادت)"
-  },
-  {
-    "english": "Justice (practice)",
-    "urdu": "عدل (خصلت)"
-  },
-  {
-    "english": "Sincerity (virtue)",
-    "urdu": "اخلاص (اصول)"
-  },
-  {
-    "english": "Intention (rule)",
-    "urdu": "نیت (خصلت)"
-  },
-  {
-    "english": "Deed (rule)",
-    "urdu": "عمل (مفهوم)"
-  },
-  {
-    "english": "Truthfulness (virtue)",
-    "urdu": "صدق (مفهوم)"
-  },
-  {
-    "english": "Halal (virtue)",
-    "urdu": "حلال (خصلت)"
-  },
-  {
-    "english": "Haram (principle)",
-    "urdu": "حرام (عمل)"
-  },
-  {
-    "english": "Piety (practice)",
-    "urdu": "تقویٰ (عمل)"
-  },
-  {
-    "english": "Knowledge (principle)",
-    "urdu": "علم (عمل)"
-  },
-  {
-    "english": "Education (habit)",
-    "urdu": "تعلیم (عمل)"
-  },
-  {
-    "english": "Mosque (principle)",
-    "urdu": "مسجد (مفهوم)"
-  },
-  {
-    "english": "Wudu (concept)",
-    "urdu": "وضو (مفهوم)"
-  },
-  {
-    "english": "Sajdah (rule)",
-    "urdu": "سجدہ (قانون)"
-  },
-  {
-    "english": "Ruku (act)",
-    "urdu": "رکوع (عمل)"
-  },
-  {
-    "english": "Adhan (practice)",
-    "urdu": "اذان (قانون)"
-  },
-  {
-    "english": "Paradise (principle)",
-    "urdu": "جنت (مفهوم)"
-  },
-  {
-    "english": "Hell (concept)",
-    "urdu": "جہنم (اصول)"
-  },
-  {
-    "english": "Hereafter (rule)",
-    "urdu": "آخرت (مفهوم)"
-  },
-  {
-    "english": "Day of Judgment (principle)",
-    "urdu": "قیامت (عمل)"
-  },
-  {
-    "english": "Repentance (act)",
-    "urdu": "توبہ (اصول)"
-  },
-  {
-    "english": "Dhikr (concept)",
-    "urdu": "ذکر (مفهوم)"
-  },
-  {
-    "english": "Dua (virtue)",
-    "urdu": "دعا (عمل)"
-  },
-  {
-    "english": "Sadaqah (principle)",
-    "urdu": "صدقہ (مفهوم)"
-  },
-  {
-    "english": "Hajj (virtue)",
-    "urdu": "حج (عادت)"
-  },
-  {
-    "english": "Umrah (rule)",
-    "urdu": "عمرہ (خصلت)"
-  },
-  {
-    "english": "Heart (virtue)",
-    "urdu": "قلب (عمل)"
-  },
-  {
-    "english": "Soul (concept)",
-    "urdu": "روح (قانون)"
-  },
-  {
-    "english": "Nafs (habit)",
-    "urdu": "نفس (مفهوم)"
-  },
-  {
-    "english": "Trust (concept)",
-    "urdu": "امانت (اصول)"
-  },
-  {
-    "english": "Rights (principle)",
-    "urdu": "حقوق (عادت)"
-  },
-  {
-    "english": "Fear (of God) (practice)",
-    "urdu": "خوف (خصلت)"
-  },
-  {
-    "english": "Modesty (rule)",
-    "urdu": "حیا (قانون)"
-  },
-  {
-    "english": "Loyalty (habit)",
-    "urdu": "وفا (عمل)"
-  },
-  {
-    "english": "Honesty (principle)",
-    "urdu": "ایمانداری (عادت)"
-  },
-  {
-    "english": "Compassion (concept)",
-    "urdu": "رحم (عمل)"
-  },
-  {
-    "english": "Divine decree (act)",
-    "urdu": "قضا (مفهوم)"
-  },
-  {
-    "english": "Destiny (virtue)",
-    "urdu": "تقدیر (قانون)"
-  },
-  {
-    "english": "Scholars (rule)",
-    "urdu": "علماء (قانون)"
-  },
-  {
-    "english": "Ummah (rule)",
-    "urdu": "امّت (عمل)"
-  },
-  {
-    "english": "Sahabah (act)",
-    "urdu": "صحابہ (عمل)"
-  },
-  {
-    "english": "Imam (act)",
-    "urdu": "امام (عادت)"
-  },
-  {
-    "english": "Faqih (principle)",
-    "urdu": "فقیہ (عادت)"
-  },
-  {
-    "english": "Fatwa (practice)",
-    "urdu": "فتویٰ (عادت)"
-  },
-  {
-    "english": "Fiqh (virtue)",
-    "urdu": "فقہ (قانون)"
-  },
-  {
-    "english": "Ijtihad (rule)",
-    "urdu": "اجتہاد (عادت)"
-  },
-  {
-    "english": "Ijma (practice)",
-    "urdu": "اجماع (مفهوم)"
-  },
-  {
-    "english": "Hudud (practice)",
-    "urdu": "حدود (خصلت)"
-  },
-  {
-    "english": "Judgement (concept)",
-    "urdu": "قضاوت (عمل)"
-  },
-  {
-    "english": "Nikah (practice)",
-    "urdu": "نکاح (مفهوم)"
-  },
-  {
-    "english": "Talaq (rule)",
-    "urdu": "طلاق (مفهوم)"
-  },
-  {
-    "english": "Inheritance (principle)",
-    "urdu": "وراثت (قانون)"
-  },
-  {
-    "english": "Waqf (act)",
-    "urdu": "وقف (مفهوم)"
-  },
-  {
-    "english": "Seerah (principle)",
-    "urdu": "سیرت (اصول)"
-  },
-  {
-    "english": "Tableegh (concept)",
-    "urdu": "تبلیغ (خصلت)"
-  },
-  {
-    "english": "Dawah (virtue)",
-    "urdu": "دعوت (عادت)"
-  },
-  {
-    "english": "Pleasure (of Allah) (principle)",
-    "urdu": "رضا (خصلت)"
-  },
-  {
-    "english": "Reward (habit)",
-    "urdu": "ثواب (مفهوم)"
-  },
-  {
-    "english": "Punishment (act)",
-    "urdu": "عذاب (عمل)"
-  },
-  {
-    "english": "Resurrection (virtue)",
-    "urdu": "معاد (عمل)"
-  },
-  {
-    "english": "Wisdom (concept)",
-    "urdu": "حکمت (اصول)"
-  },
-  {
-    "english": "Morals (habit)",
-    "urdu": "اخلاق (قانون)"
-  },
-  {
-    "english": "Righteous (rule)",
-    "urdu": "صالح (عمل)"
-  },
-  {
-    "english": "Pardon (practice)",
-    "urdu": "بخشش (قانون)"
-  },
-  {
-    "english": "Forgiveness (principle)",
-    "urdu": "عفو (اصول)"
-  },
-  {
-    "english": "Honesty (concept)",
-    "urdu": "صِدق (خصلت)"
-  },
-  {
-    "english": "Brotherhood (virtue)",
-    "urdu": "بھائی چارہ (قانون)"
-  },
-  {
-    "english": "Intercession (virtue)",
-    "urdu": "شفاعت (عادت)"
-  },
-  {
-    "english": "Good deed (practice)",
-    "urdu": "نیکی (اصول)"
-  },
-  {
-    "english": "Evil act (habit)",
-    "urdu": "برائی (خصلت)"
-  },
-  {
-    "english": "Justice and fairness (concept)",
-    "urdu": "عدل و انصاف (قانون)"
-  },
-  {
-    "english": "Governance (habit)",
-    "urdu": "حکومت (اصول)"
-  },
-  {
-    "english": "Shariah (concept)",
-    "urdu": "شریعت (خصلت)"
-  },
-  {
-    "english": "Benevolence (principle)",
-    "urdu": "احسان (خصلت)"
-  },
-  {
-    "english": "Holy Quran (habit)",
-    "urdu": "قراٰن مجید (اصول)"
-  },
-  {
-    "english": "Memorization (habit)",
-    "urdu": "حفظ (قانون)"
-  },
-  {
-    "english": "Recitation (habit)",
-    "urdu": "تلاوت (عادت)"
-  },
-  {
-    "english": "Contemplation (concept)",
-    "urdu": "تدبر (عادت)"
-  },
-  {
-    "english": "Self-accountability (virtue)",
-    "urdu": "محاسبہ (مفهوم)"
-  },
-  {
-    "english": "Purification (virtue)",
-    "urdu": "تزکیہ (مفهوم)"
-  },
-  {
-    "english": "Pure intention (rule)",
-    "urdu": "صدق نیت (اصول)"
-  },
-  {
-    "english": "Selflessness (rule)",
-    "urdu": "ایثار (عادت)"
-  },
-  {
-    "english": "Sincerity alt (habit)",
-    "urdu": "خلوص (عمل)"
-  },
-  {
-    "english": "Contentment (rule)",
-    "urdu": "قناعت (عادت)"
-  },
-  {
-    "english": "Humility (practice)",
-    "urdu": "عجز (مفهوم)"
-  },
-  {
-    "english": "Arrogance (practice)",
-    "urdu": "تکبر (مفهوم)"
-  },
-  {
-    "english": "Service (concept)",
-    "urdu": "خدمت (خصلت)"
-  },
-  {
-    "english": "Service to humanity (practice)",
-    "urdu": "خدمتِ خلق (خصلت)"
-  },
-  {
-    "english": "Respect (concept)",
-    "urdu": "احترام (خصلت)"
-  },
-  {
-    "english": "Forbearance (rule)",
-    "urdu": "صبر و تحمل (عمل)"
-  },
-  {
-    "english": "Preservation of chains (Isnad) (concept)",
-    "urdu": "حفظ الاسناد (قانون)"
-  },
-  {
-    "english": "Matn (practice)",
-    "urdu": "متن (مفهوم)"
-  },
-  {
-    "english": "Extraction (hadith) (habit)",
-    "urdu": "تخریج (عادت)"
-  },
-  {
-    "english": "Muhaddith (virtue)",
-    "urdu": "محدث (عمل)"
-  },
-  {
-    "english": "Mufassir (concept)",
-    "urdu": "مفسر (عمل)"
-  },
-  {
-    "english": "Rank (act)",
-    "urdu": "مرتبہ (عادت)"
-  },
-  {
-    "english": "Science of Hadith (principle)",
-    "urdu": "علمِ حدیث (مفهوم)"
-  },
-  {
-    "english": "Upbringing (act)",
-    "urdu": "تربیت (مفهوم)"
-  },
-  {
-    "english": "Child (rule)",
-    "urdu": "ولد (اصول)"
-  },
-  {
-    "english": "Parents (act)",
-    "urdu": "والدین (قانون)"
-  },
-  {
-    "english": "Rights of parents (practice)",
-    "urdu": "والدین کا حق (قانون)"
-  },
-  {
-    "english": "Education of children (act)",
-    "urdu": "تعلیمِ اولاد (خصلت)"
-  },
-  {
-    "english": "Relationship (rule)",
-    "urdu": "تعلق (عمل)"
-  },
-  {
-    "english": "Kinship ties (rule)",
-    "urdu": "صلہ رحمی (خصلت)"
-  },
-  {
-    "english": "Tolerance (practice)",
-    "urdu": "رواداری (خصلت)"
-  },
-  {
-    "english": "Court/justice (habit)",
-    "urdu": "عدالت (اصول)"
-  },
-  {
-    "english": "Lie (act)",
-    "urdu": "جھوٹ (اصول)"
-  },
-  {
-    "english": "Testimony (practice)",
-    "urdu": "گواہی (اصول)"
-  },
-  {
-    "english": "Martyrdom (principle)",
-    "urdu": "شہادت (عادت)"
-  },
-  {
-    "english": "Martyr (practice)",
-    "urdu": "شہید (مفهوم)"
-  },
-  {
-    "english": "Covenant (habit)",
-    "urdu": "پیمان (عمل)"
-  },
-  {
-    "english": "Trustworthiness (virtue)",
-    "urdu": "امانتداری (عمل)"
-  },
-  {
-    "english": "Faithfulness (virtue)",
-    "urdu": "وفاداری (عمل)"
-  },
-  {
-    "english": "Truth (practice)",
-    "urdu": "سچائی (عمل)"
-  },
-  {
-    "english": "Heartfelt faith (practice)",
-    "urdu": "قلبی ایمان (قانون)"
-  },
-  {
-    "english": "Sacrifice (practice)",
-    "urdu": "قربانی (مفهوم)"
-  },
-  {
-    "english": "Sincerity (habit)",
-    "urdu": "صدق (اصول)"
-  },
-  {
-    "english": "Regularity of prayer (habit)",
-    "urdu": "نماز کی پابندی (خصلت)"
-  },
-  {
-    "english": "Punctuality (virtue)",
-    "urdu": "وقت کی پابندی (عمل)"
-  },
-  {
-    "english": "Lawful income (rule)",
-    "urdu": "حلال روزی (مفهوم)"
-  },
-  {
-    "english": "Usury/Riba (act)",
-    "urdu": "ربا (قانون)"
-  },
-  {
-    "english": "Spending in way of Allah (concept)",
-    "urdu": "انفاق (مفهوم)"
-  },
-  {
-    "english": "Sponsorship (practice)",
-    "urdu": "کفالت (خصلت)"
-  },
-  {
-    "english": "Forbearance (concept)",
-    "urdu": "حلم (مفهوم)"
-  },
-  {
-    "english": "Patience alt (habit)",
-    "urdu": "بردباری (عمل)"
-  },
-  {
-    "english": "Purity (concept)",
-    "urdu": "طہارت (خصلت)"
-  },
-  {
-    "english": "Noble Hadith (principle)",
-    "urdu": "حدیث پاک (خصلت)"
-  },
-  {
-    "english": "Books of Hadith (practice)",
-    "urdu": "کتبِ حدیث (قانون)"
-  },
-  {
-    "english": "Sect (principle)",
-    "urdu": "فرقہ (قانون)"
-  },
-  {
-    "english": "Schools of thought (concept)",
-    "urdu": "مذاہب (عادت)"
-  },
-  {
-    "english": "Moral training (concept)",
-    "urdu": "اخلاقی تربیت (عادت)"
-  },
-  {
-    "english": "Statement (rule)",
-    "urdu": "بیان (اصول)"
-  },
-  {
-    "english": "Sermon (rule)",
-    "urdu": "موعظہ (عمل)"
-  },
-  {
-    "english": "Responsibility (habit)",
-    "urdu": "ذمہ داری (عمل)"
-  },
-  {
-    "english": "Volunteer (habit)",
-    "urdu": "رضاکار (قانون)"
-  },
-  {
-    "english": "Shura (principle)",
-    "urdu": "شورا (اصول)"
-  },
-  {
-    "english": "Goodness (act)",
-    "urdu": "بھلائی (قانون)"
-  },
-  {
-    "english": "Corruption (habit)",
-    "urdu": "خرابی (عادت)"
-  },
-  {
-    "english": "Believer (virtue)",
-    "urdu": "مؤمن (عمل)"
-  },
-  {
-    "english": "Female believer (concept)",
-    "urdu": "مؤمنہ (عمل)"
-  },
-  {
-    "english": "Muslim (concept)",
-    "urdu": "مسلم (مفهوم)"
-  },
-  {
-    "english": "Disbeliever (virtue)",
-    "urdu": "کافر (اصول)"
-  },
-  {
-    "english": "Hypocrite (concept)",
-    "urdu": "منافق (مفهوم)"
-  },
-  {
-    "english": "Creed (principle)",
-    "urdu": "عقیدہ (مفهوم)"
-  },
-  {
-    "english": "Tahajjud prayer (habit)",
-    "urdu": "نمازِ تہجد (عمل)"
-  },
-  {
-    "english": "Taraweeh prayer (habit)",
-    "urdu": "نمازِ تراویح (عمل)"
-  },
-  {
-    "english": "Love of the Prophet (concept)",
-    "urdu": "محبت رسول (عادت)"
-  },
-  {
-    "english": "Affliction (virtue)",
-    "urdu": "فتنہ (قانون)"
-  },
-  {
-    "english": "Allegiance (rule)",
-    "urdu": "بیعت (اصول)"
-  },
-  {
-    "english": "Honor (rule)",
-    "urdu": "غیرت (عمل)"
-  },
-  {
-    "english": "Humiliation (rule)",
-    "urdu": "ذلت (اصول)"
-  },
-  {
-    "english": "Ceremony (act)",
-    "urdu": "تقریب (اصول)"
-  },
-  {
-    "english": "Generosity (virtue)",
-    "urdu": "سخاوت (عادت)"
-  },
-  {
-    "english": "Stinginess (practice)",
-    "urdu": "بخل (اصول)"
-  },
-  {
-    "english": "Right (principle)",
-    "urdu": "حق (خصلت)"
-  },
-  {
-    "english": "Falsehood (practice)",
-    "urdu": "باطل (اصول)"
-  },
-  {
-    "english": "Conflict (practice)",
-    "urdu": "نزاع (اصول)"
-  },
-  {
-    "english": "Reconciliation (practice)",
-    "urdu": "صلح (عادت)"
-  },
-  {
-    "english": "Remembrance of Allah (concept)",
-    "urdu": "اللہ کی یاد (عادت)"
-  },
-  {
-    "english": "Night vigil (act)",
-    "urdu": "شب بیداری (خصلت)"
-  },
-  {
-    "english": "Society (habit)",
-    "urdu": "معاشرت (مفهوم)"
-  },
-  {
-    "english": "Inner peace (principle)",
-    "urdu": "قلبی سکون (عمل)"
-  },
-  {
-    "english": "Supplication for guidance (habit)",
-    "urdu": "دعائے ہدایت (قانون)"
-  },
-  {
-    "english": "Blessing (concept)",
-    "urdu": "فضل (عمل)"
-  },
-  {
-    "english": "Sin (practice)",
-    "urdu": "گناہ (عمل)"
-  },
-  {
-    "english": "Eid al-Adha (principle)",
-    "urdu": "قربانی کا جشن (قانون)"
-  },
-  {
-    "english": "Eid al-Fitr (virtue)",
-    "urdu": "روزہ کا عید (اصول)"
-  },
-  {
-    "english": "Nobility (act)",
-    "urdu": "مروت (قانون)"
-  },
-  {
-    "english": "Cleanliness (virtue)",
-    "urdu": "پاکیزگی (مفهوم)"
-  },
-  {
-    "english": "Nearness (practice)",
-    "urdu": "قرب (قانون)"
-  },
-  {
-    "english": "Light (habit)",
-    "urdu": "نور (عمل)"
-  },
-  {
-    "english": "Guidance (virtue)",
-    "urdu": "ہدایت (عادت)"
-  },
-  {
-    "english": "Divine (habit)",
-    "urdu": "الہامی (مفهوم)"
-  },
-  {
-    "english": "Miracle (concept)",
-    "urdu": "معجزہ (قانون)"
-  },
-  {
-    "english": "Dua for forgiveness (practice)",
-    "urdu": "دعائے مغفرت (مفهوم)"
-  },
-  {
-    "english": "Worship (habit)",
-    "urdu": "عبادت (اصول)"
-  },
-  {
-    "english": "Devout (virtue)",
-    "urdu": "عبادت گزار (مفهوم)"
-  },
-  {
-    "english": "Thankfulness (act)",
-    "urdu": "شکریہ (عادت)"
-  },
-  {
-    "english": "Visitation (virtue)",
-    "urdu": "زیارت (عمل)"
-  },
-  {
-    "english": "Unrestricted hadith (principle)",
-    "urdu": "حدیث مطلقہ (عادت)"
-  },
-  {
-    "english": "Restricted hadith (practice)",
-    "urdu": "حدیث مقیدہ (قانون)"
-  },
-  {
-    "english": "Dispute (principle)",
-    "urdu": "نزاعہ (قانون)"
-  },
-  {
-    "english": "Reform (practice)",
-    "urdu": "صلاح (خصلت)"
-  },
-  {
-    "english": "Quranic guidance (rule)",
-    "urdu": "قراٰنی ہدایت (عادت)"
-  },
-  {
-    "english": "Actions (habit)",
-    "urdu": "اعمال (قانون)"
-  },
-  {
-    "english": "True intention (concept)",
-    "urdu": "سچی نیت (اصول)"
-  },
-  {
-    "english": "Prayer time (habit)",
-    "urdu": "نماز کا وقت (عمل)"
-  },
-  {
-    "english": "Remembrances (act)",
-    "urdu": "اذکار (عادت)"
-  },
-  {
-    "english": "Seeking forgiveness (act)",
-    "urdu": "استغفار (عمل)"
-  },
-  {
-    "english": "Status of martyrdom (concept)",
-    "urdu": "شہادت کا مقام (عادت)"
-  },
-  {
-    "english": "Remembrance practice (practice)",
-    "urdu": "ذکر و ذکر (عمل)"
-  },
-  {
-    "english": "Collective (concept)",
-    "urdu": "اجتماعی (مفهوم)"
-  },
-  {
-    "english": "Individual (rule)",
-    "urdu": "فردی (خصلت)"
-  },
-  {
-    "english": "Economic (rule)",
-    "urdu": "معاشی (خصلت)"
-  },
-  {
-    "english": "Political (virtue)",
-    "urdu": "سیاسی (خصلت)"
-  },
-  {
-    "english": "Spiritual (practice)",
-    "urdu": "روحانی (عمل)"
-  },
-  {
-    "english": "Educational (virtue)",
-    "urdu": "تعلیمی (عمل)"
-  },
-  {
-    "english": "Training-related (act)",
-    "urdu": "تربیتی (عمل)"
-  },
-  {
-    "english": "Justice-based (concept)",
-    "urdu": "عدل پر مبنی (عادت)"
-  },
-  {
-    "english": "Requirement of trust (practice)",
-    "urdu": "امانت کا تقاضا (عمل)"
-  },
-  {
-    "english": "Human dignity (virtue)",
-    "urdu": "احترامِ انسانی (عمل)"
-  },
-  {
-    "english": "Astute (habit)",
-    "urdu": "زیرک (عمل)"
-  },
-  {
-    "english": "Practical wisdom (rule)",
-    "urdu": "حکمتِ عملی (مفهوم)"
-  },
-  {
-    "english": "Courage (practice)",
-    "urdu": "حوصلہ (قانون)"
-  },
-  {
-    "english": "Patience and fortitude (virtue)",
-    "urdu": "صبر و ہمت (مفهوم)"
-  },
-  {
-    "english": "Allah (concept)",
-    "urdu": "اللہ (قانون)"
-  },
-  {
-    "english": "Faith (concept)",
-    "urdu": "ایمان (عمل)"
-  },
-  {
-    "english": "Prayer (rule)",
-    "urdu": "نماز (عادت)"
-  },
-  {
-    "english": "Fasting (concept)",
-    "urdu": "روزہ (اصول)"
-  },
-  {
-    "english": "Zakat (act)",
-    "urdu": "زکوٰۃ (اصول)"
-  },
-  {
-    "english": "Quran (habit)",
-    "urdu": "قرآن (عمل)"
-  },
-  {
-    "english": "Hadith (act)",
-    "urdu": "حدیث (عمل)"
-  },
-  {
-    "english": "Sunnah (concept)",
-    "urdu": "سنت (عادت)"
-  },
-  {
-    "english": "Prophet (act)",
-    "urdu": "نبی (قانون)"
-  },
-  {
-    "english": "Messenger (rule)",
-    "urdu": "رسول (خصلت)"
-  },
-  {
-    "english": "Mercy (practice)",
-    "urdu": "رحمت (عمل)"
-  },
-  {
-    "english": "Forgiveness (concept)",
-    "urdu": "عفو (اصول)"
-  },
-  {
-    "english": "Patience (habit)",
-    "urdu": "صبر (عمل)"
-  },
-  {
-    "english": "Justice (rule)",
-    "urdu": "عدل (قانون)"
-  },
-  {
-    "english": "Sincerity (principle)",
-    "urdu": "اخلاص (قانون)"
-  },
-  {
-    "english": "Intention (rule)",
-    "urdu": "نیت (مفهوم)"
-  },
-  {
-    "english": "Deed (principle)",
-    "urdu": "عمل (خصلت)"
-  },
-  {
-    "english": "Truthfulness (rule)",
-    "urdu": "صدق (عمل)"
-  },
-  {
-    "english": "Halal (habit)",
-    "urdu": "حلال (خصلت)"
-  },
-  {
-    "english": "Haram (habit)",
-    "urdu": "حرام (عمل)"
-  },
-  {
-    "english": "Piety (habit)",
-    "urdu": "تقویٰ (عمل)"
-  },
-  {
-    "english": "Knowledge (concept)",
-    "urdu": "علم (اصول)"
-  },
-  {
-    "english": "Education (concept)",
-    "urdu": "تعلیم (مفهوم)"
-  },
-  {
-    "english": "Mosque (principle)",
-    "urdu": "مسجد (اصول)"
-  },
-  {
-    "english": "Wudu (act)",
-    "urdu": "وضو (عمل)"
-  },
-  {
-    "english": "Sajdah (rule)",
-    "urdu": "سجدہ (خصلت)"
-  },
-  {
-    "english": "Ruku (rule)",
-    "urdu": "رکوع (اصول)"
-  },
-  {
-    "english": "Adhan (habit)",
-    "urdu": "اذان (خصلت)"
-  },
-  {
-    "english": "Paradise (habit)",
-    "urdu": "جنت (عمل)"
-  },
-  {
-    "english": "Hell (act)",
-    "urdu": "جہنم (مفهوم)"
-  },
-  {
-    "english": "Hereafter (virtue)",
-    "urdu": "آخرت (عمل)"
-  },
-  {
-    "english": "Day of Judgment (rule)",
-    "urdu": "قیامت (عمل)"
-  },
-  {
-    "english": "Repentance (virtue)",
-    "urdu": "توبہ (اصول)"
-  },
-  {
-    "english": "Dhikr (act)",
-    "urdu": "ذکر (اصول)"
-  },
-  {
-    "english": "Dua (rule)",
-    "urdu": "دعا (عادت)"
-  },
-  {
-    "english": "Sadaqah (rule)",
-    "urdu": "صدقہ (عادت)"
-  },
-  {
-    "english": "Hajj (habit)",
-    "urdu": "حج (عادت)"
-  },
-  {
-    "english": "Umrah (practice)",
-    "urdu": "عمرہ (مفهوم)"
-  },
-  {
-    "english": "Heart (practice)",
-    "urdu": "قلب (عمل)"
-  },
-  {
-    "english": "Soul (practice)",
-    "urdu": "روح (مفهوم)"
-  },
-  {
-    "english": "Nafs (practice)",
-    "urdu": "نفس (قانون)"
-  },
-  {
-    "english": "Trust (habit)",
-    "urdu": "امانت (عمل)"
-  },
-  {
-    "english": "Rights (concept)",
-    "urdu": "حقوق (خصلت)"
-  },
-  {
-    "english": "Love (concept)",
-    "urdu": "محبت (مفهوم)"
-  },
-  {
-    "english": "Fear (of God) (act)",
-    "urdu": "خوف (خصلت)"
-  },
-  {
-    "english": "Modesty (rule)",
-    "urdu": "حیا (مفهوم)"
-  },
-  {
-    "english": "Loyalty (act)",
-    "urdu": "وفا (اصول)"
-  },
-  {
-    "english": "Honesty (principle)",
-    "urdu": "ایمانداری (قانون)"
-  },
-  {
-    "english": "Compassion (rule)",
-    "urdu": "رحم (عمل)"
-  },
-  {
-    "english": "Divine decree (virtue)",
-    "urdu": "قضا (عادت)"
-  },
-  {
-    "english": "Destiny (act)",
-    "urdu": "تقدیر (مفهوم)"
-  },
-  {
-    "english": "Scholars (habit)",
-    "urdu": "علماء (مفهوم)"
-  },
-  {
-    "english": "Sahabah (concept)",
-    "urdu": "صحابہ (خصلت)"
-  },
-  {
-    "english": "Imam (act)",
-    "urdu": "امام (قانون)"
-  },
-  {
-    "english": "Faqih (act)",
-    "urdu": "فقیہ (عمل)"
-  },
-  {
-    "english": "Fatwa (act)",
-    "urdu": "فتویٰ (اصول)"
-  },
-  {
-    "english": "Fiqh (act)",
-    "urdu": "فقہ (اصول)"
-  },
-  {
-    "english": "Ijtihad (virtue)",
-    "urdu": "اجتہاد (اصول)"
-  },
-  {
-    "english": "Ijma (concept)",
-    "urdu": "اجماع (عمل)"
-  },
-  {
-    "english": "Hudud (virtue)",
-    "urdu": "حدود (عادت)"
-  },
-  {
-    "english": "Judgement (concept)",
-    "urdu": "قضاوت (مفهوم)"
-  },
-  {
-    "english": "Nikah (virtue)",
-    "urdu": "نکاح (عمل)"
-  },
-  {
-    "english": "Talaq (habit)",
-    "urdu": "طلاق (مفهوم)"
-  },
-  {
-    "english": "Inheritance (practice)",
-    "urdu": "وراثت (خصلت)"
-  },
-  {
-    "english": "Waqf (principle)",
-    "urdu": "وقف (اصول)"
-  },
-  {
-    "english": "Seerah (practice)",
-    "urdu": "سیرت (قانون)"
-  },
-  {
-    "english": "Tableegh (concept)",
-    "urdu": "تبلیغ (عمل)"
-  },
-  {
-    "english": "Dawah (practice)",
-    "urdu": "دعوت (اصول)"
-  },
-  {
-    "english": "Pleasure (of Allah) (concept)",
-    "urdu": "رضا (قانون)"
-  },
-  {
-    "english": "Reward (habit)",
-    "urdu": "ثواب (عادت)"
-  },
-  {
-    "english": "Resurrection (virtue)",
-    "urdu": "معاد (اصول)"
-  },
-  {
-    "english": "Wisdom (habit)",
-    "urdu": "حکمت (اصول)"
-  },
-  {
-    "english": "Morals (virtue)",
-    "urdu": "اخلاق (اصول)"
-  },
-  {
-    "english": "Righteous (rule)",
-    "urdu": "صالح (عادت)"
-  },
-  {
-    "english": "Pardon (concept)",
-    "urdu": "بخشش (عمل)"
-  },
-  {
-    "english": "Forgiveness (practice)",
-    "urdu": "عفو (مفهوم)"
-  },
-  {
-    "english": "Honesty (virtue)",
-    "urdu": "صِدق (عادت)"
-  },
-  {
-    "english": "Brotherhood (rule)",
-    "urdu": "بھائی چارہ (قانون)"
-  },
-  {
-    "english": "Intercession (concept)",
-    "urdu": "شفاعت (عمل)"
-  },
-  {
-    "english": "Evil act (act)",
-    "urdu": "برائی (خصلت)"
-  },
-  {
-    "english": "Justice and fairness (principle)",
-    "urdu": "عدل و انصاف (اصول)"
-  },
-  {
-    "english": "Governance (concept)",
-    "urdu": "حکومت (عادت)"
-  },
-  {
-    "english": "Shariah (practice)",
-    "urdu": "شریعت (خصلت)"
-  },
-  {
-    "english": "Benevolence (practice)",
-    "urdu": "احسان (مفهوم)"
-  },
-  {
-    "english": "Holy Quran (concept)",
-    "urdu": "قراٰن مجید (خصلت)"
-  },
-  {
-    "english": "Memorization (habit)",
-    "urdu": "حفظ (مفهوم)"
-  },
-  {
-    "english": "Recitation (practice)",
-    "urdu": "تلاوت (عادت)"
-  },
-  {
-    "english": "Contemplation (virtue)",
-    "urdu": "تدبر (عمل)"
-  },
-  {
-    "english": "Self-accountability (virtue)",
-    "urdu": "محاسبہ (قانون)"
-  },
-  {
-    "english": "Purification (act)",
-    "urdu": "تزکیہ (قانون)"
-  },
-  {
-    "english": "Pure intention (act)",
-    "urdu": "صدق نیت (عمل)"
-  },
-  {
-    "english": "Selflessness (act)",
-    "urdu": "ایثار (قانون)"
-  },
-  {
-    "english": "Contentment (act)",
-    "urdu": "قناعت (عادت)"
-  },
-  {
-    "english": "Humility (habit)",
-    "urdu": "عجز (قانون)"
-  },
-  {
-    "english": "Arrogance (act)",
-    "urdu": "تکبر (اصول)"
-  },
-  {
-    "english": "Help (rule)",
-    "urdu": "مدد (مفهوم)"
-  },
-  {
-    "english": "Service (rule)",
-    "urdu": "خدمت (عمل)"
-  },
-  {
-    "english": "Respect (virtue)",
-    "urdu": "احترام (مفهوم)"
-  },
-  {
-    "english": "Forbearance (practice)",
-    "urdu": "صبر و تحمل (قانون)"
-  },
-  {
-    "english": "Preservation of chains (Isnad) (act)",
-    "urdu": "حفظ الاسناد (خصلت)"
-  },
-  {
-    "english": "Isnad (concept)",
-    "urdu": "اسناد (عمل)"
-  },
-  {
-    "english": "Matn (habit)",
-    "urdu": "متن (مفهوم)"
-  },
-  {
-    "english": "Extraction (hadith) (virtue)",
-    "urdu": "تخریج (عمل)"
-  },
-  {
-    "english": "Muhaddith (act)",
-    "urdu": "محدث (مفهوم)"
-  },
-  {
-    "english": "Rank (rule)",
-    "urdu": "مرتبہ (عمل)"
-  },
-  {
-    "english": "Science of Hadith (habit)",
-    "urdu": "علمِ حدیث (مفهوم)"
-  },
-  {
-    "english": "Upbringing (principle)",
-    "urdu": "تربیت (اصول)"
-  },
-  {
-    "english": "Family (principle)",
-    "urdu": "خاندان (مفهوم)"
-  },
-  {
-    "english": "Child (practice)",
-    "urdu": "ولد (عمل)"
-  },
-  {
-    "english": "Parents (habit)",
-    "urdu": "والدین (اصول)"
-  },
-  {
-    "english": "Rights of parents (concept)",
-    "urdu": "والدین کا حق (عمل)"
-  },
-  {
-    "english": "Education of children (habit)",
-    "urdu": "تعلیمِ اولاد (مفهوم)"
-  },
-  {
-    "english": "Relationship (principle)",
-    "urdu": "تعلق (قانون)"
-  },
-  {
-    "english": "Kinship ties (act)",
-    "urdu": "صلہ رحمی (خصلت)"
-  },
-  {
-    "english": "Tolerance (virtue)",
-    "urdu": "رواداری (عمل)"
-  },
-  {
-    "english": "Court/justice (rule)",
-    "urdu": "عدالت (مفهوم)"
-  },
-  {
-    "english": "Testimony (principle)",
-    "urdu": "گواہی (مفهوم)"
-  },
-  {
-    "english": "Martyrdom (act)",
-    "urdu": "شہادت (عمل)"
-  },
-  {
-    "english": "Martyr (habit)",
-    "urdu": "شہید (عادت)"
-  },
-  {
-    "english": "Covenant (virtue)",
-    "urdu": "پیمان (قانون)"
-  },
-  {
-    "english": "Trustworthiness (principle)",
-    "urdu": "امانتداری (عمل)"
-  },
-  {
-    "english": "Truth (rule)",
-    "urdu": "سچائی (اصول)"
-  },
-  {
-    "english": "Heartfelt faith (act)",
-    "urdu": "قلبی ایمان (مفهوم)"
-  },
-  {
-    "english": "Sacrifice (concept)",
-    "urdu": "قربانی (عمل)"
-  },
-  {
-    "english": "Sincerity (concept)",
-    "urdu": "صدق (قانون)"
-  },
-  {
-    "english": "Regularity of prayer (act)",
-    "urdu": "نماز کی پابندی (قانون)"
-  },
-  {
-    "english": "Punctuality (habit)",
-    "urdu": "وقت کی پابندی (قانون)"
-  },
-  {
-    "english": "Lawful income (concept)",
-    "urdu": "حلال روزی (عمل)"
-  },
-  {
-    "english": "Usury/Riba (act)",
-    "urdu": "ربا (اصول)"
-  },
-  {
-    "english": "Spending in way of Allah (practice)",
-    "urdu": "انفاق (عمل)"
-  },
-  {
-    "english": "Sponsorship (virtue)",
-    "urdu": "کفالت (عمل)"
-  },
-  {
-    "english": "Forbearance (habit)",
-    "urdu": "حلم (عمل)"
-  },
-  {
-    "english": "Patience alt (virtue)",
-    "urdu": "بردباری (مفهوم)"
-  },
-  {
-    "english": "Purity (practice)",
-    "urdu": "طہارت (عمل)"
-  },
-  {
-    "english": "Noble Hadith (principle)",
-    "urdu": "حدیث پاک (قانون)"
-  },
-  {
-    "english": "Books of Hadith (virtue)",
-    "urdu": "کتبِ حدیث (عادت)"
-  },
-  {
-    "english": "Sect (virtue)",
-    "urdu": "فرقہ (عمل)"
-  },
-  {
-    "english": "Schools of thought (virtue)",
-    "urdu": "مذاہب (عمل)"
-  },
-  {
-    "english": "Moral training (habit)",
-    "urdu": "اخلاقی تربیت (عمل)"
-  },
-  {
-    "english": "Sermon (practice)",
-    "urdu": "موعظہ (عمل)"
-  },
-  {
-    "english": "Responsibility (principle)",
-    "urdu": "ذمہ داری (اصول)"
-  },
-  {
-    "english": "Volunteer (concept)",
-    "urdu": "رضاکار (عادت)"
-  },
-  {
-    "english": "Consultation (practice)",
-    "urdu": "مشورہ (عمل)"
-  },
-  {
-    "english": "Shura (concept)",
-    "urdu": "شورا (قانون)"
-  },
-  {
-    "english": "Goodness (virtue)",
-    "urdu": "بھلائی (عمل)"
-  },
-  {
-    "english": "Believer (habit)",
-    "urdu": "مؤمن (اصول)"
-  },
-  {
-    "english": "Female believer (act)",
-    "urdu": "مؤمنہ (قانون)"
-  },
-  {
-    "english": "Muslim (act)",
-    "urdu": "مسلم (عمل)"
-  },
-  {
-    "english": "Disbeliever (habit)",
-    "urdu": "کافر (مفهوم)"
-  },
-  {
-    "english": "Hypocrite (principle)",
-    "urdu": "منافق (عمل)"
-  },
-  {
-    "english": "Creed (virtue)",
-    "urdu": "عقیدہ (عمل)"
-  },
-  {
-    "english": "Tahajjud prayer (principle)",
-    "urdu": "نمازِ تہجد (عمل)"
-  },
-  {
-    "english": "Love of the Prophet (rule)",
-    "urdu": "محبت رسول (عمل)"
-  },
-  {
-    "english": "Affliction (act)",
-    "urdu": "فتنہ (عمل)"
-  },
-  {
-    "english": "Allegiance (concept)",
-    "urdu": "بیعت (عمل)"
-  },
-  {
-    "english": "Honor (virtue)",
-    "urdu": "غیرت (عمل)"
-  },
-  {
-    "english": "Justice alt (practice)",
-    "urdu": "انصاف (قانون)"
-  },
-  {
-    "english": "Honor/respect (concept)",
-    "urdu": "عزت (اصول)"
-  },
-  {
-    "english": "Humiliation (act)",
-    "urdu": "ذلت (قانون)"
-  },
-  {
-    "english": "Ceremony (habit)",
-    "urdu": "تقریب (مفهوم)"
-  },
-  {
-    "english": "Generosity (rule)",
-    "urdu": "سخاوت (خصلت)"
-  },
-  {
-    "english": "Stinginess (act)",
-    "urdu": "بخل (عمل)"
-  },
-  {
-    "english": "Falsehood (act)",
-    "urdu": "باطل (خصلت)"
-  },
-  {
-    "english": "Conflict (act)",
-    "urdu": "نزاع (خصلت)"
-  },
-  {
-    "english": "Reconciliation (rule)",
-    "urdu": "صلح (عمل)"
-  },
-  {
-    "english": "Remembrance of Allah (habit)",
-    "urdu": "اللہ کی یاد (قانون)"
-  },
-  {
-    "english": "Night vigil (practice)",
-    "urdu": "شب بیداری (عمل)"
-  },
-  {
-    "english": "Society (rule)",
-    "urdu": "معاشرت (اصول)"
-  },
-  {
-    "english": "Inner peace (virtue)",
-    "urdu": "قلبی سکون (عمل)"
-  },
-  {
-    "english": "Supplication for guidance (habit)",
-    "urdu": "دعائے ہدایت (مفهوم)"
-  },
-  {
-    "english": "Blessing (act)",
-    "urdu": "فضل (عادت)"
-  },
-  {
-    "english": "Sin (act)",
-    "urdu": "گناہ (اصول)"
-  },
-  {
-    "english": "Eid al-Adha (principle)",
-    "urdu": "قربانی کا جشن (خصلت)"
-  },
-  {
-    "english": "Eid al-Fitr (concept)",
-    "urdu": "روزہ کا عید (مفهوم)"
-  },
-  {
-    "english": "Nobility (act)",
-    "urdu": "مروت (اصول)"
-  },
-  {
-    "english": "Cleanliness (habit)",
-    "urdu": "پاکیزگی (اصول)"
-  },
-  {
-    "english": "Nearness (principle)",
-    "urdu": "قرب (عادت)"
-  },
-  {
-    "english": "Guidance (rule)",
-    "urdu": "ہدایت (خصلت)"
-  },
-  {
-    "english": "Divine (practice)",
-    "urdu": "الہامی (قانون)"
-  },
-  {
-    "english": "Miracle (principle)",
-    "urdu": "معجزہ (اصول)"
-  },
-  {
-    "english": "Dua for forgiveness (virtue)",
-    "urdu": "دعائے مغفرت (خصلت)"
-  },
-  {
-    "english": "Worship (principle)",
-    "urdu": "عبادت (اصول)"
-  },
-  {
-    "english": "Devout (practice)",
-    "urdu": "عبادت گزار (عمل)"
-  },
-  {
-    "english": "Thankfulness (rule)",
-    "urdu": "شکریہ (عمل)"
-  },
-  {
-    "english": "Visitation (rule)",
-    "urdu": "زیارت (عمل)"
-  },
-  {
-    "english": "Unrestricted hadith (rule)",
-    "urdu": "حدیث مطلقہ (عادت)"
-  },
-  {
-    "english": "Restricted hadith (habit)",
-    "urdu": "حدیث مقیدہ (عمل)"
-  },
-  {
-    "english": "Dispute (principle)",
-    "urdu": "نزاعہ (مفهوم)"
-  },
-  {
-    "english": "Reform (act)",
-    "urdu": "صلاح (عمل)"
-  },
-  {
-    "english": "Quranic guidance (principle)",
-    "urdu": "قراٰنی ہدایت (خصلت)"
-  },
-  {
-    "english": "Actions (practice)",
-    "urdu": "اعمال (عمل)"
-  },
-  {
-    "english": "True intention (act)",
-    "urdu": "سچی نیت (خصلت)"
-  },
-  {
-    "english": "Prayer time (concept)",
-    "urdu": "نماز کا وقت (اصول)"
-  },
-  {
-    "english": "Remembrances (practice)",
-    "urdu": "اذکار (اصول)"
-  },
-  {
-    "english": "Seeking forgiveness (principle)",
-    "urdu": "استغفار (عادت)"
-  },
-  {
-    "english": "Status of martyrdom (principle)",
-    "urdu": "شہادت کا مقام (عادت)"
-  },
-  {
-    "english": "Remembrance practice (virtue)",
-    "urdu": "ذکر و ذکر (قانون)"
-  },
-  {
-    "english": "Collective (rule)",
-    "urdu": "اجتماعی (عمل)"
-  },
-  {
-    "english": "Individual (principle)",
-    "urdu": "فردی (عمل)"
-  },
-  {
-    "english": "Economic (habit)",
-    "urdu": "معاشی (مفهوم)"
-  },
-  {
-    "english": "Political (habit)",
-    "urdu": "سیاسی (مفهوم)"
-  },
-  {
-    "english": "Spiritual (virtue)",
-    "urdu": "روحانی (عمل)"
-  },
-  {
-    "english": "Educational (act)",
-    "urdu": "تعلیمی (عمل)"
-  },
-  {
-    "english": "Training-related (principle)",
-    "urdu": "تربیتی (خصلت)"
-  },
-  {
-    "english": "Justice-based (practice)",
-    "urdu": "عدل پر مبنی (خصلت)"
-  },
-  {
-    "english": "Requirement of trust (virtue)",
-    "urdu": "امانت کا تقاضا (عادت)"
-  },
-  {
-    "english": "Human dignity (principle)",
-    "urdu": "احترامِ انسانی (خصلت)"
-  },
-  {
-    "english": "Practical wisdom (practice)",
-    "urdu": "حکمتِ عملی (عادت)"
-  },
-  {
-    "english": "Courage (virtue)",
-    "urdu": "حوصلہ (عمل)"
-  },
-  {
-    "english": "Patience and fortitude (virtue)",
-    "urdu": "صبر و ہمت (عادت)"
-  },
-  {
-    "english": "Allah (concept)",
-    "urdu": "اللہ (خصلت)"
-  },
-  {
-    "english": "Faith (act)",
-    "urdu": "ایمان (عادت)"
-  },
-  {
-    "english": "Prayer (principle)",
-    "urdu": "نماز (قانون)"
-  },
-  {
-    "english": "Fasting (rule)",
-    "urdu": "روزہ (قانون)"
-  },
-  {
-    "english": "Zakat (rule)",
-    "urdu": "زکوٰۃ (عمل)"
-  },
-  {
-    "english": "Quran (concept)",
-    "urdu": "قرآن (عمل)"
-  },
-  {
-    "english": "Hadith (concept)",
-    "urdu": "حدیث (عمل)"
-  },
-  {
-    "english": "Sunnah (act)",
-    "urdu": "سنت (اصول)"
-  },
-  {
-    "english": "Messenger (principle)",
-    "urdu": "رسول (قانون)"
-  },
-  {
-    "english": "Forgiveness (habit)",
-    "urdu": "عفو (عادت)"
-  },
-  {
-    "english": "Patience (principle)",
-    "urdu": "صبر (مفهوم)"
-  },
-  {
-    "english": "Gratitude (habit)",
-    "urdu": "شکر (عادت)"
-  },
-  {
-    "english": "Justice (habit)",
-    "urdu": "عدل (عمل)"
-  },
-  {
-    "english": "Sincerity (concept)",
-    "urdu": "اخلاص (اصول)"
-  },
-  {
-    "english": "Intention (virtue)",
-    "urdu": "نیت (عادت)"
-  },
-  {
-    "english": "Deed (principle)",
-    "urdu": "عمل (عمل)"
-  },
-  {
-    "english": "Truthfulness (practice)",
-    "urdu": "صدق (اصول)"
-  },
-  {
-    "english": "Halal (practice)",
-    "urdu": "حلال (قانون)"
-  },
-  {
-    "english": "Haram (act)",
-    "urdu": "حرام (عمل)"
-  },
-  {
-    "english": "Piety (habit)",
-    "urdu": "تقویٰ (قانون)"
-  },
-  {
-    "english": "Education (act)",
-    "urdu": "تعلیم (عادت)"
-  },
-  {
-    "english": "Wudu (virtue)",
-    "urdu": "وضو (مفهوم)"
-  },
-  {
-    "english": "Sajdah (practice)",
-    "urdu": "سجدہ (عادت)"
-  },
-  {
-    "english": "Ruku (habit)",
-    "urdu": "رکوع (عمل)"
-  },
-  {
-    "english": "Adhan (practice)",
-    "urdu": "اذان (عمل)"
-  },
-  {
-    "english": "Paradise (concept)",
-    "urdu": "جنت (عمل)"
-  },
-  {
-    "english": "Hell (principle)",
-    "urdu": "جہنم (عمل)"
-  },
-  {
-    "english": "Hereafter (concept)",
-    "urdu": "آخرت (عادت)"
-  },
-  {
-    "english": "Day of Judgment (virtue)",
-    "urdu": "قیامت (اصول)"
-  },
-  {
-    "english": "Repentance (principle)",
-    "urdu": "توبہ (عمل)"
-  },
-  {
-    "english": "Dhikr (concept)",
-    "urdu": "ذکر (عمل)"
-  },
-  {
-    "english": "Dua (habit)",
-    "urdu": "دعا (عمل)"
-  },
-  {
-    "english": "Sadaqah (act)",
-    "urdu": "صدقہ (اصول)"
-  },
-  {
-    "english": "Hajj (practice)",
-    "urdu": "حج (عمل)"
-  },
-  {
-    "english": "Umrah (virtue)",
-    "urdu": "عمرہ (عمل)"
-  },
-  {
-    "english": "Heart (practice)",
-    "urdu": "قلب (قانون)"
-  },
-  {
-    "english": "Soul (practice)",
-    "urdu": "روح (قانون)"
-  },
-  {
-    "english": "Nafs (virtue)",
-    "urdu": "نفس (اصول)"
-  },
-  {
-    "english": "Trust (virtue)",
-    "urdu": "امانت (قانون)"
-  },
-  {
-    "english": "Rights (act)",
-    "urdu": "حقوق (مفهوم)"
-  },
-  {
-    "english": "Love (principle)",
-    "urdu": "محبت (خصلت)"
-  },
-  {
-    "english": "Fear (of God) (act)",
-    "urdu": "خوف (قانون)"
-  },
-  {
-    "english": "Modesty (virtue)",
-    "urdu": "حیا (اصول)"
-  },
-  {
-    "english": "Loyalty (virtue)",
-    "urdu": "وفا (عادت)"
-  },
-  {
-    "english": "Honesty (concept)",
-    "urdu": "ایمانداری (خصلت)"
-  },
-  {
-    "english": "Compassion (concept)",
-    "urdu": "رحم (مفهوم)"
-  },
-  {
-    "english": "Divine decree (virtue)",
-    "urdu": "قضا (اصول)"
-  },
-  {
-    "english": "Destiny (principle)",
-    "urdu": "تقدیر (عمل)"
-  },
-  {
-    "english": "Ummah (principle)",
-    "urdu": "امّت (اصول)"
-  },
-  {
-    "english": "Sahabah (practice)",
-    "urdu": "صحابہ (خصلت)"
-  },
-  {
-    "english": "Imam (virtue)",
-    "urdu": "امام (اصول)"
-  },
-  {
-    "english": "Faqih (principle)",
-    "urdu": "فقیہ (عمل)"
-  },
-  {
-    "english": "Fatwa (rule)",
-    "urdu": "فتویٰ (اصول)"
-  },
-  {
-    "english": "Fiqh (practice)",
-    "urdu": "فقہ (مفهوم)"
-  },
-  {
-    "english": "Ijtihad (principle)",
-    "urdu": "اجتہاد (مفهوم)"
-  },
-  {
-    "english": "Ijma (virtue)",
-    "urdu": "اجماع (اصول)"
-  },
-  {
-    "english": "Hudud (practice)",
-    "urdu": "حدود (عمل)"
-  },
-  {
-    "english": "Judgement (virtue)",
-    "urdu": "قضاوت (اصول)"
-  },
-  {
-    "english": "Nikah (act)",
-    "urdu": "نکاح (مفهوم)"
-  },
-  {
-    "english": "Talaq (habit)",
-    "urdu": "طلاق (اصول)"
-  },
-  {
-    "english": "Inheritance (practice)",
-    "urdu": "وراثت (عادت)"
-  },
-  {
-    "english": "Waqf (rule)",
-    "urdu": "وقف (قانون)"
-  },
-  {
-    "english": "Seerah (virtue)",
-    "urdu": "سیرت (مفهوم)"
-  },
-  {
-    "english": "Tableegh (act)",
-    "urdu": "تبلیغ (عمل)"
-  },
-  {
-    "english": "Dawah (habit)",
-    "urdu": "دعوت (عمل)"
-  },
-  {
-    "english": "Pleasure (of Allah) (habit)",
-    "urdu": "رضا (عادت)"
-  },
-  {
-    "english": "Reward (act)",
-    "urdu": "ثواب (عمل)"
-  },
-  {
-    "english": "Punishment (rule)",
-    "urdu": "عذاب (مفهوم)"
-  },
-  {
-    "english": "Resurrection (habit)",
-    "urdu": "معاد (خصلت)"
-  },
-  {
-    "english": "Wisdom (virtue)",
-    "urdu": "حکمت (عمل)"
-  },
-  {
-    "english": "Morals (rule)",
-    "urdu": "اخلاق (اصول)"
-  },
-  {
-    "english": "Righteous (practice)",
-    "urdu": "صالح (عادت)"
-  },
-  {
-    "english": "Pardon (habit)",
-    "urdu": "بخشش (قانون)"
-  },
-  {
-    "english": "Forgiveness (habit)",
-    "urdu": "عفو (عمل)"
-  },
-  {
-    "english": "Honesty (act)",
-    "urdu": "صِدق (اصول)"
-  },
-  {
-    "english": "Brotherhood (principle)",
-    "urdu": "بھائی چارہ (عادت)"
-  },
-  {
-    "english": "Intercession (act)",
-    "urdu": "شفاعت (خصلت)"
-  },
-  {
-    "english": "Good deed (virtue)",
-    "urdu": "نیکی (مفهوم)"
-  },
-  {
-    "english": "Evil act (rule)",
-    "urdu": "برائی (عادت)"
-  },
-  {
-    "english": "Justice and fairness (act)",
-    "urdu": "عدل و انصاف (عمل)"
-  },
-  {
-    "english": "Governance (concept)",
-    "urdu": "حکومت (خصلت)"
-  },
-  {
-    "english": "Shariah (virtue)",
-    "urdu": "شریعت (مفهوم)"
-  },
-  {
-    "english": "Benevolence (practice)",
-    "urdu": "احسان (عمل)"
-  },
-  {
-    "english": "Holy Quran (concept)",
-    "urdu": "قراٰن مجید (عادت)"
-  },
-  {
-    "english": "Memorization (principle)",
-    "urdu": "حفظ (قانون)"
-  },
-  {
-    "english": "Contemplation (rule)",
-    "urdu": "تدبر (عادت)"
-  },
-  {
-    "english": "Self-accountability (practice)",
-    "urdu": "محاسبہ (عمل)"
-  },
-  {
-    "english": "Purification (virtue)",
-    "urdu": "تزکیہ (عادت)"
-  },
-  {
-    "english": "Pure intention (rule)",
-    "urdu": "صدق نیت (خصلت)"
-  },
-  {
-    "english": "Selflessness (act)",
-    "urdu": "ایثار (عمل)"
-  },
-  {
-    "english": "Sincerity alt (act)",
-    "urdu": "خلوص (عمل)"
-  },
-  {
-    "english": "Contentment (act)",
-    "urdu": "قناعت (قانون)"
-  },
-  {
-    "english": "Humility (principle)",
-    "urdu": "عجز (خصلت)"
-  },
-  {
-    "english": "Arrogance (rule)",
-    "urdu": "تکبر (عادت)"
-  },
-  {
-    "english": "Service to humanity (act)",
-    "urdu": "خدمتِ خلق (خصلت)"
-  },
-  {
-    "english": "Respect (habit)",
-    "urdu": "احترام (مفهوم)"
-  },
-  {
-    "english": "Forbearance (virtue)",
-    "urdu": "صبر و تحمل (عمل)"
-  },
-  {
-    "english": "Preservation of chains (Isnad) (virtue)",
-    "urdu": "حفظ الاسناد (اصول)"
-  },
-  {
-    "english": "Isnad (practice)",
-    "urdu": "اسناد (اصول)"
-  },
-  {
-    "english": "Matn (principle)",
-    "urdu": "متن (قانون)"
-  },
-  {
-    "english": "Extraction (hadith) (act)",
-    "urdu": "تخریج (عمل)"
-  },
-  {
-    "english": "Muhaddith (concept)",
-    "urdu": "محدث (قانون)"
-  },
-  {
-    "english": "Mufassir (act)",
-    "urdu": "مفسر (عمل)"
-  },
-  {
-    "english": "Rank (concept)",
-    "urdu": "مرتبہ (عادت)"
-  },
-  {
-    "english": "Science of Hadith (concept)",
-    "urdu": "علمِ حدیث (عمل)"
-  },
-  {
-    "english": "Upbringing (principle)",
-    "urdu": "تربیت (خصلت)"
-  },
-  {
-    "english": "Family (act)",
-    "urdu": "خاندان (عادت)"
-  },
-  {
-    "english": "Child (virtue)",
-    "urdu": "ولد (عمل)"
-  },
-  {
-    "english": "Parents (rule)",
-    "urdu": "والدین (عمل)"
-  },
-  {
-    "english": "Rights of parents (virtue)",
-    "urdu": "والدین کا حق (خصلت)"
-  },
-  {
-    "english": "Education of children (act)",
-    "urdu": "تعلیمِ اولاد (اصول)"
-  },
-  {
-    "english": "Relationship (rule)",
-    "urdu": "تعلق (عادت)"
-  },
-  {
-    "english": "Kinship ties (act)",
-    "urdu": "صلہ رحمی (عمل)"
-  },
-  {
-    "english": "Tolerance (habit)",
-    "urdu": "رواداری (اصول)"
-  },
-  {
-    "english": "Court/justice (principle)",
-    "urdu": "عدالت (عمل)"
-  },
-  {
-    "english": "Lie (practice)",
-    "urdu": "جھوٹ (عادت)"
-  },
-  {
-    "english": "Testimony (practice)",
-    "urdu": "گواہی (مفهوم)"
-  },
-  {
-    "english": "Martyrdom (rule)",
-    "urdu": "شہادت (اصول)"
-  },
-  {
-    "english": "Martyr (virtue)",
-    "urdu": "شہید (اصول)"
-  },
-  {
-    "english": "Covenant (virtue)",
-    "urdu": "پیمان (اصول)"
-  },
-  {
-    "english": "Trustworthiness (habit)",
-    "urdu": "امانتداری (عمل)"
-  },
-  {
-    "english": "Faithfulness (habit)",
-    "urdu": "وفاداری (عادت)"
+    "english": "Umrah",
+    "urdu": "عمرہ"
   }
 ]
