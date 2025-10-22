@@ -1,190 +1,176 @@
-from pathlib import Path
 
-# Create the final updated game.html file
-html_content = """<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>English Learning Game</title>
+<title>Sentence Formation Game</title>
 <style>
-  body {
-    font-family: 'Nunito', sans-serif;
-    background: linear-gradient(to bottom, #e8f5e9, #ffffff);
-    margin: 0; padding: 0;
-    display: flex; flex-direction: column; align-items: center;
-  }
-  h1 { color: #1b5e20; margin-top: 20px; }
-  .card {
-    background: white; border-radius: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    padding: 20px; margin: 20px; width: 90%; max-width: 500px; text-align: center;
-  }
-  button {
-    background-color: #2e7d32; color: white; border: none; border-radius: 8px;
-    padding: 10px 20px; font-size: 16px; margin: 10px; cursor: pointer;
-  }
-  button:hover { background-color: #1b5e20; }
-  .option { display: block; margin: 8px auto; width: 80%; }
-  table { width: 100%; border-collapse: collapse; margin: 10px 0; }
-  th, td { border: 1px solid #c8e6c9; padding: 8px; text-align: center; }
-  th { background-color: #a5d6a7; }
+    body {
+        font-family: 'Poppins', sans-serif;
+        background: linear-gradient(135deg, #006400, #00a651);
+        color: white;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+    }
+    .card {
+        background: white;
+        color: #222;
+        border-radius: 15px;
+        padding: 25px;
+        width: 90%;
+        max-width: 500px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    h1 {
+        color: white;
+        margin-bottom: 20px;
+    }
+    button {
+        background: #006400;
+        color: white;
+        border: none;
+        border-radius: 10px;
+        padding: 12px 20px;
+        font-size: 16px;
+        cursor: pointer;
+        margin: 8px;
+        transition: 0.3s;
+    }
+    button:hover {
+        background: #00a651;
+    }
+    .options button {
+        background: #f0f0f0;
+        color: #222;
+        border: 2px solid #00a651;
+        border-radius: 10px;
+        margin: 5px;
+        padding: 10px;
+        font-size: 15px;
+        transition: 0.3s;
+    }
+    .options button:hover {
+        background: #00a651;
+        color: white;
+    }
+    .hidden {
+        display: none;
+    }
 </style>
 </head>
 <body>
 
-<h1>Learn English - Islamic & Daily Words</h1>
+<h1>Sentence Formation - Level 2</h1>
 
-<div id="home" class="card">
-  <h2>Select Level</h2>
-  <button onclick="startLevel(1)">Level 1: Vocabulary Game</button>
-  <button onclick="startLevel(2)">Level 2: Sentence Formation</button>
-</div>
-
-<div id="revision" class="card" style="display:none;">
-  <h2>Today's Words</h2>
-  <table id="revisionTable"></table>
-  <button onclick="startGame()">Start Game</button>
-</div>
-
-<div id="game" class="card" style="display:none;">
-  <h2 id="questionText"></h2>
-  <div id="options"></div>
-  <button id="endBtn" onclick="endGame()">End Game</button>
-</div>
-
-<div id="sentenceGame" class="card" style="display:none;">
-  <h2 id="sentenceText"></h2>
-  <div id="wordButtons"></div>
-  <p><strong>Your Answer:</strong> <span id="userSentence"></span></p>
-  <button onclick="checkSentence()">Check</button>
-  <button id="endBtn2" onclick="endGame()">End Game</button>
+<div class="card" id="gameCard">
+    <p id="questionText">Loading question...</p>
+    <div class="options" id="optionsContainer"></div>
+    <button id="endGame">End Game</button>
 </div>
 
 <script>
-let level = 1;
-let words = [];
 let sentences = [];
 let currentIndex = 0;
-let currentQuestion = null;
-let userSentence = '';
-
-async function startLevel(lv) {
-  level = lv;
-  document.getElementById('home').style.display = 'none';
-  if(level === 1) {
-    await loadWords();
-    showRevision();
-  } else {
-    await loadSentences();
-    startSentenceGame();
-  }
-}
-
-async function loadWords() {
-  const res = await fetch('words.json');
-  words = await res.json();
-}
+let usedIndices = [];
 
 async function loadSentences() {
-  const res = await fetch('sentences.json');
-  sentences = await res.json();
-}
-
-function showRevision() {
-  const table = document.getElementById('revisionTable');
-  table.innerHTML = '<tr><th>English</th><th>Urdu</th></tr>';
-  const todays = words.sort(() => 0.5 - Math.random()).slice(0, 10);
-  todays.forEach(w => {
-    table.innerHTML += `<tr><td>${w.english}</td><td>${w.urdu}</td></tr>`;
-  });
-  document.getElementById('revision').style.display = 'block';
+    const response = await fetch('sentences.json');
+    sentences = await response.json();
+    startGame();
 }
 
 function startGame() {
-  document.getElementById('revision').style.display = 'none';
-  document.getElementById('game').style.display = 'block';
-  currentIndex = 0;
-  nextQuestion();
+    usedIndices = [];
+    currentIndex = 0;
+    showNextQuestion();
 }
 
-function nextQuestion() {
-  if(currentIndex >= 10) { alert('Great job! You completed Level 1.'); endGame(); return; }
-  const q = words[Math.floor(Math.random() * words.length)];
-  const direction = Math.random() > 0.5 ? 'toEnglish' : 'toUrdu';
-  currentQuestion = q;
-  let questionText, correctAnswer;
-  let options = [];
-  if(direction === 'toEnglish') {
-    questionText = `Translate into English: "${q.urdu}"`;
-    correctAnswer = q.english;
-    const wrongs = words.sort(() => 0.5 - Math.random()).slice(0,3).map(w => w.english);
-    options = [...wrongs, correctAnswer].sort(() => 0.5 - Math.random());
-  } else {
-    questionText = `Translate into Urdu: "${q.english}"`;
-    correctAnswer = q.urdu;
-    const wrongs = words.sort(() => 0.5 - Math.random()).slice(0,3).map(w => w.urdu);
-    options = [...wrongs, correctAnswer].sort(() => 0.5 - Math.random());
-  }
-  document.getElementById('questionText').textContent = questionText;
-  const optDiv = document.getElementById('options');
-  optDiv.innerHTML = '';
-  options.forEach(o => {
-    const btn = document.createElement('button');
-    btn.textContent = o;
-    btn.className = 'option';
-    btn.onclick = () => {
-      if(o === correctAnswer) { currentIndex++; nextQuestion(); }
-      else alert('Wrong answer. Try again.');
-    };
-    optDiv.appendChild(btn);
-  });
+function showNextQuestion() {
+    if (currentIndex >= 10) {
+        document.getElementById('questionText').innerText = "🎉 Game Completed! You may restart or end the game.";
+        document.getElementById('optionsContainer').innerHTML = "";
+        return;
+    }
+
+    // alternate between Islamic (0–49) and Daily (50–99)
+    let questionIndex;
+    if (currentIndex % 2 === 0) {
+        questionIndex = Math.floor(Math.random() * 50); // Islamic
+    } else {
+        questionIndex = 50 + Math.floor(Math.random() * 50); // Daily
+    }
+
+    // prevent repeat
+    while (usedIndices.includes(questionIndex)) {
+        if (currentIndex % 2 === 0) {
+            questionIndex = Math.floor(Math.random() * 50);
+        } else {
+            questionIndex = 50 + Math.floor(Math.random() * 50);
+        }
+    }
+    usedIndices.push(questionIndex);
+    const sentence = sentences[questionIndex];
+
+    // randomly decide direction
+    const toEnglish = Math.random() > 0.5;
+
+    let question, correctAnswer;
+    let options = [];
+
+    if (toEnglish) {
+        question = `Translate into English: "${sentence.urdu}"`;
+        correctAnswer = sentence.english;
+        options = [correctAnswer];
+        while (options.length < 4) {
+            let random = sentences[Math.floor(Math.random() * 100)].english;
+            if (!options.includes(random)) options.push(random);
+        }
+    } else {
+        question = `Translate into Urdu: "${sentence.english}"`;
+        correctAnswer = sentence.urdu;
+        options = [correctAnswer];
+        while (options.length < 4) {
+            let random = sentences[Math.floor(Math.random() * 100)].urdu;
+            if (!options.includes(random)) options.push(random);
+        }
+    }
+
+    options.sort(() => Math.random() - 0.5);
+
+    document.getElementById('questionText').innerText = question;
+    const container = document.getElementById('optionsContainer');
+    container.innerHTML = "";
+    options.forEach(opt => {
+        const btn = document.createElement('button');
+        btn.innerText = opt;
+        btn.onclick = () => {
+            if (opt === correctAnswer) {
+                currentIndex++;
+                showNextQuestion();
+            } else {
+                btn.style.background = 'red';
+                btn.style.color = 'white';
+            }
+        };
+        container.appendChild(btn);
+    });
 }
 
-function startSentenceGame() {
-  document.getElementById('sentenceGame').style.display = 'block';
-  currentIndex = 0;
-  nextSentence();
-}
+document.getElementById('endGame').onclick = () => {
+    document.getElementById('questionText').innerText = "❌ Game Ended. You may restart anytime.";
+    document.getElementById('optionsContainer').innerHTML = "";
+};
 
-function nextSentence() {
-  if(currentIndex >= 10) { alert('You completed Level 2!'); endGame(); return; }
-  const s = sentences[Math.floor(Math.random() * sentences.length)];
-  currentQuestion = s;
-  document.getElementById('sentenceText').textContent = s.urdu;
-  userSentence = '';
-  document.getElementById('userSentence').textContent = '';
-  const wordsArr = s.english.split(' ');
-  const shuffled = wordsArr.sort(() => 0.5 - Math.random());
-  const container = document.getElementById('wordButtons');
-  container.innerHTML = '';
-  shuffled.forEach(w => {
-    const btn = document.createElement('button');
-    btn.textContent = w;
-    btn.onclick = () => { userSentence += (userSentence ? ' ' : '') + w; btn.disabled = true; document.getElementById('userSentence').textContent = userSentence; };
-    container.appendChild(btn);
-  });
-}
-
-function checkSentence() {
-  if(userSentence.trim().toLowerCase() === currentQuestion.english.trim().toLowerCase()) {
-    alert('Correct!');
-    currentIndex++;
-    nextSentence();
-  } else {
-    alert('Try again.');
-  }
-}
-
-function endGame() {
-  document.getElementById('game').style.display = 'none';
-  document.getElementById('sentenceGame').style.display = 'none';
-  document.getElementById('revision').style.display = 'none';
-  document.getElementById('home').style.display = 'block';
-}
+loadSentences();
 </script>
+
 </body>
 </html>
-"""
-
-Path("/mnt/data/game_final_green.html").write_text(html_content, encoding="utf-8")
-"/mnt/data/game_final_green.html"
