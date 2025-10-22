@@ -1,30 +1,42 @@
-Q: Translate into Urdu: Prayer keeps us away from bad deeds.
-A: نماز ہمیں برے کاموں سے روکتی ہے۔
-
-Q: Translate into Urdu: I am going to school.
-A: میں اسکول جا رہا ہوں۔
-
-Q: Translate into English: روزہ ہمیں صبر سکھاتا ہے۔
-A: Fasting teaches us patience.
-
-Q: Translate into English: وہ پانی پی رہا ہے۔
-A: He is drinking water.
-
-Q: Translate into Urdu: Always speak the truth.
-A: ہمیشہ سچ بولو۔
-
-Q: Translate into Urdu: She is cooking food.
-A: وہ کھانا پکا رہی ہے۔
-
-Q: Translate into English: زکوة ہمارے مال کو پاک کرتی ہے۔
-A: Zakat purifies our wealth.
-
-Q: Translate into English: وہ بازار جا رہی ہے۔
-A: She is going to the market.
-
-Q: Translate into Urdu: Helping others is a great virtue.
-A: دوسروں کی مدد کرنا ایک بڑی نیکی ہے۔
-
-Q: Translate into Urdu: I am reading a book.
-A: میں ایک کتاب پڑھ رہا ہوں۔
-
+[
+    {
+        "question": "Translate into Urdu: Prayer keeps us away from bad deeds.",
+        "answer": "نماز ہمیں برے کاموں سے روکتی ہے۔"
+    },
+    {
+        "question": "Translate into Urdu: I am going to school.",
+        "answer": "میں اسکول جا رہا ہوں۔"
+    },
+    {
+        "question": "Translate into English: روزہ ہمیں صبر سکھاتا ہے۔",
+        "answer": "Fasting teaches us patience."
+    },
+    {
+        "question": "Translate into English: وہ پانی پی رہا ہے۔",
+        "answer": "He is drinking water."
+    },
+    {
+        "question": "Translate into Urdu: Always speak the truth.",
+        "answer": "ہمیشہ سچ بولو۔"
+    },
+    {
+        "question": "Translate into Urdu: She is cooking food.",
+        "answer": "وہ کھانا پکا رہی ہے۔"
+    },
+    {
+        "question": "Translate into English: زکوة ہمارے مال کو پاک کرتی ہے۔",
+        "answer": "Zakat purifies our wealth."
+    },
+    {
+        "question": "Translate into English: وہ بازار جا رہی ہے۔",
+        "answer": "She is going to the market."
+    },
+    {
+        "question": "Translate into Urdu: Helping others is a great virtue.",
+        "answer": "دوسروں کی مدد کرنا ایک بڑی نیکی ہے۔"
+    },
+    {
+        "question": "Translate into Urdu: I am reading a book.",
+        "answer": "میں ایک کتاب پڑھ رہا ہوں۔"
+    }
+]
