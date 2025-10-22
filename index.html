@@ -1,30 +1,190 @@
+from pathlib import Path
 
-<!DOCTYPE html>
+# Create the final updated game.html file
+html_content = """<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Learn English with Fun</title>
+<title>English Learning Game</title>
 <style>
-body{font-family:'Poppins',sans-serif;background:#f0f4f8;text-align:center;margin:0;}
-h1{color:#2b4c7e;margin-top:20px;}
-.container{display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:100vh;}
-.card{background:white;padding:20px;border-radius:15px;box-shadow:0 4px 8px rgba(0,0,0,0.1);margin:10px;width:320px;cursor:pointer;transition:0.3s;}
-.card:hover{transform:scale(1.05);}
-.button{background:#2b4c7e;color:white;border:none;padding:10px 20px;margin:10px;border-radius:10px;cursor:pointer;}
+  body {
+    font-family: 'Nunito', sans-serif;
+    background: linear-gradient(to bottom, #e8f5e9, #ffffff);
+    margin: 0; padding: 0;
+    display: flex; flex-direction: column; align-items: center;
+  }
+  h1 { color: #1b5e20; margin-top: 20px; }
+  .card {
+    background: white; border-radius: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    padding: 20px; margin: 20px; width: 90%; max-width: 500px; text-align: center;
+  }
+  button {
+    background-color: #2e7d32; color: white; border: none; border-radius: 8px;
+    padding: 10px 20px; font-size: 16px; margin: 10px; cursor: pointer;
+  }
+  button:hover { background-color: #1b5e20; }
+  .option { display: block; margin: 8px auto; width: 80%; }
+  table { width: 100%; border-collapse: collapse; margin: 10px 0; }
+  th, td { border: 1px solid #c8e6c9; padding: 8px; text-align: center; }
+  th { background-color: #a5d6a7; }
 </style>
 </head>
 <body>
-<div class="container">
-<h1>Learn English with Fun</h1>
-<div class="card" onclick="alert('Level 1: Vocabulary Builder Coming Soon!')">
-<h2>Level 1: Vocabulary Builder</h2>
-<p>Translate Urdu ↔ English words.</p>
+
+<h1>Learn English - Islamic & Daily Words</h1>
+
+<div id="home" class="card">
+  <h2>Select Level</h2>
+  <button onclick="startLevel(1)">Level 1: Vocabulary Game</button>
+  <button onclick="startLevel(2)">Level 2: Sentence Formation</button>
 </div>
-<div class="card" onclick="alert('Level 2: Sentence Formation Coming Soon!')">
-<h2>Level 2: Sentence Formation</h2>
-<p>Form correct English sentences from Urdu.</p>
+
+<div id="revision" class="card" style="display:none;">
+  <h2>Today's Words</h2>
+  <table id="revisionTable"></table>
+  <button onclick="startGame()">Start Game</button>
 </div>
+
+<div id="game" class="card" style="display:none;">
+  <h2 id="questionText"></h2>
+  <div id="options"></div>
+  <button id="endBtn" onclick="endGame()">End Game</button>
 </div>
+
+<div id="sentenceGame" class="card" style="display:none;">
+  <h2 id="sentenceText"></h2>
+  <div id="wordButtons"></div>
+  <p><strong>Your Answer:</strong> <span id="userSentence"></span></p>
+  <button onclick="checkSentence()">Check</button>
+  <button id="endBtn2" onclick="endGame()">End Game</button>
+</div>
+
+<script>
+let level = 1;
+let words = [];
+let sentences = [];
+let currentIndex = 0;
+let currentQuestion = null;
+let userSentence = '';
+
+async function startLevel(lv) {
+  level = lv;
+  document.getElementById('home').style.display = 'none';
+  if(level === 1) {
+    await loadWords();
+    showRevision();
+  } else {
+    await loadSentences();
+    startSentenceGame();
+  }
+}
+
+async function loadWords() {
+  const res = await fetch('words.json');
+  words = await res.json();
+}
+
+async function loadSentences() {
+  const res = await fetch('sentences.json');
+  sentences = await res.json();
+}
+
+function showRevision() {
+  const table = document.getElementById('revisionTable');
+  table.innerHTML = '<tr><th>English</th><th>Urdu</th></tr>';
+  const todays = words.sort(() => 0.5 - Math.random()).slice(0, 10);
+  todays.forEach(w => {
+    table.innerHTML += `<tr><td>${w.english}</td><td>${w.urdu}</td></tr>`;
+  });
+  document.getElementById('revision').style.display = 'block';
+}
+
+function startGame() {
+  document.getElementById('revision').style.display = 'none';
+  document.getElementById('game').style.display = 'block';
+  currentIndex = 0;
+  nextQuestion();
+}
+
+function nextQuestion() {
+  if(currentIndex >= 10) { alert('Great job! You completed Level 1.'); endGame(); return; }
+  const q = words[Math.floor(Math.random() * words.length)];
+  const direction = Math.random() > 0.5 ? 'toEnglish' : 'toUrdu';
+  currentQuestion = q;
+  let questionText, correctAnswer;
+  let options = [];
+  if(direction === 'toEnglish') {
+    questionText = `Translate into English: "${q.urdu}"`;
+    correctAnswer = q.english;
+    const wrongs = words.sort(() => 0.5 - Math.random()).slice(0,3).map(w => w.english);
+    options = [...wrongs, correctAnswer].sort(() => 0.5 - Math.random());
+  } else {
+    questionText = `Translate into Urdu: "${q.english}"`;
+    correctAnswer = q.urdu;
+    const wrongs = words.sort(() => 0.5 - Math.random()).slice(0,3).map(w => w.urdu);
+    options = [...wrongs, correctAnswer].sort(() => 0.5 - Math.random());
+  }
+  document.getElementById('questionText').textContent = questionText;
+  const optDiv = document.getElementById('options');
+  optDiv.innerHTML = '';
+  options.forEach(o => {
+    const btn = document.createElement('button');
+    btn.textContent = o;
+    btn.className = 'option';
+    btn.onclick = () => {
+      if(o === correctAnswer) { currentIndex++; nextQuestion(); }
+      else alert('Wrong answer. Try again.');
+    };
+    optDiv.appendChild(btn);
+  });
+}
+
+function startSentenceGame() {
+  document.getElementById('sentenceGame').style.display = 'block';
+  currentIndex = 0;
+  nextSentence();
+}
+
+function nextSentence() {
+  if(currentIndex >= 10) { alert('You completed Level 2!'); endGame(); return; }
+  const s = sentences[Math.floor(Math.random() * sentences.length)];
+  currentQuestion = s;
+  document.getElementById('sentenceText').textContent = s.urdu;
+  userSentence = '';
+  document.getElementById('userSentence').textContent = '';
+  const wordsArr = s.english.split(' ');
+  const shuffled = wordsArr.sort(() => 0.5 - Math.random());
+  const container = document.getElementById('wordButtons');
+  container.innerHTML = '';
+  shuffled.forEach(w => {
+    const btn = document.createElement('button');
+    btn.textContent = w;
+    btn.onclick = () => { userSentence += (userSentence ? ' ' : '') + w; btn.disabled = true; document.getElementById('userSentence').textContent = userSentence; };
+    container.appendChild(btn);
+  });
+}
+
+function checkSentence() {
+  if(userSentence.trim().toLowerCase() === currentQuestion.english.trim().toLowerCase()) {
+    alert('Correct!');
+    currentIndex++;
+    nextSentence();
+  } else {
+    alert('Try again.');
+  }
+}
+
+function endGame() {
+  document.getElementById('game').style.display = 'none';
+  document.getElementById('sentenceGame').style.display = 'none';
+  document.getElementById('revision').style.display = 'none';
+  document.getElementById('home').style.display = 'block';
+}
+</script>
 </body>
 </html>
+"""
+
+Path("/mnt/data/game_final_green.html").write_text(html_content, encoding="utf-8")
+"/mnt/data/game_final_green.html"
