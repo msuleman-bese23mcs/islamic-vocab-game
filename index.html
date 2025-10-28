@@ -1,176 +1,37 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Sentence Formation Game</title>
-<style>
-    body {
-        font-family: 'Poppins', sans-serif;
-        background: linear-gradient(135deg, #006400, #00a651);
-        color: white;
-        margin: 0;
-        padding: 0;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        min-height: 100vh;
-    }
-    .card {
-        background: white;
-        color: #222;
-        border-radius: 15px;
-        padding: 25px;
-        width: 90%;
-        max-width: 500px;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-        text-align: center;
-        margin-bottom: 20px;
-    }
-    h1 {
-        color: white;
-        margin-bottom: 20px;
-    }
-    button {
-        background: #006400;
-        color: white;
-        border: none;
-        border-radius: 10px;
-        padding: 12px 20px;
-        font-size: 16px;
-        cursor: pointer;
-        margin: 8px;
-        transition: 0.3s;
-    }
-    button:hover {
-        background: #00a651;
-    }
-    .options button {
-        background: #f0f0f0;
-        color: #222;
-        border: 2px solid #00a651;
-        border-radius: 10px;
-        margin: 5px;
-        padding: 10px;
-        font-size: 15px;
-        transition: 0.3s;
-    }
-    .options button:hover {
-        background: #00a651;
-        color: white;
-    }
-    .hidden {
-        display: none;
-    }
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>English–Urdu Vocabulary Practice</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<h1>Sentence Formation - Level 2</h1>
+  <div id="container">
+    <h1>English–Urdu Vocabulary Practice</h1>
 
-<div class="card" id="gameCard">
-    <p id="questionText">Loading question...</p>
-    <div class="options" id="optionsContainer"></div>
-    <button id="endGame">End Game</button>
-</div>
+    <div id="word-list" class="hidden">
+      <h2>Preview of 10 Words</h2>
+      <table id="preview-table">
+        <thead>
+          <tr><th>English</th><th>Urdu</th></tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <button id="start-quiz">Start Quiz</button>
+    </div>
 
-<script>
-let sentences = [];
-let currentIndex = 0;
-let usedIndices = [];
+    <div id="quiz-section" class="hidden">
+      <h2 id="question"></h2>
+      <div id="options"></div>
+      <button id="next">Next</button>
+      <p id="score"></p>
+    </div>
 
-async function loadSentences() {
-    const response = await fetch('sentences.json');
-    sentences = await response.json();
-    startGame();
-}
+    <button id="show-words">Show Words to Practice</button>
+  </div>
 
-function startGame() {
-    usedIndices = [];
-    currentIndex = 0;
-    showNextQuestion();
-}
-
-function showNextQuestion() {
-    if (currentIndex >= 10) {
-        document.getElementById('questionText').innerText = "🎉 Game Completed! You may restart or end the game.";
-        document.getElementById('optionsContainer').innerHTML = "";
-        return;
-    }
-
-    // alternate between Islamic (0–49) and Daily (50–99)
-    let questionIndex;
-    if (currentIndex % 2 === 0) {
-        questionIndex = Math.floor(Math.random() * 50); // Islamic
-    } else {
-        questionIndex = 50 + Math.floor(Math.random() * 50); // Daily
-    }
-
-    // prevent repeat
-    while (usedIndices.includes(questionIndex)) {
-        if (currentIndex % 2 === 0) {
-            questionIndex = Math.floor(Math.random() * 50);
-        } else {
-            questionIndex = 50 + Math.floor(Math.random() * 50);
-        }
-    }
-    usedIndices.push(questionIndex);
-    const sentence = sentences[questionIndex];
-
-    // randomly decide direction
-    const toEnglish = Math.random() > 0.5;
-
-    let question, correctAnswer;
-    let options = [];
-
-    if (toEnglish) {
-        question = `Translate into English: "${sentence.urdu}"`;
-        correctAnswer = sentence.english;
-        options = [correctAnswer];
-        while (options.length < 4) {
-            let random = sentences[Math.floor(Math.random() * 100)].english;
-            if (!options.includes(random)) options.push(random);
-        }
-    } else {
-        question = `Translate into Urdu: "${sentence.english}"`;
-        correctAnswer = sentence.urdu;
-        options = [correctAnswer];
-        while (options.length < 4) {
-            let random = sentences[Math.floor(Math.random() * 100)].urdu;
-            if (!options.includes(random)) options.push(random);
-        }
-    }
-
-    options.sort(() => Math.random() - 0.5);
-
-    document.getElementById('questionText').innerText = question;
-    const container = document.getElementById('optionsContainer');
-    container.innerHTML = "";
-    options.forEach(opt => {
-        const btn = document.createElement('button');
-        btn.innerText = opt;
-        btn.onclick = () => {
-            if (opt === correctAnswer) {
-                currentIndex++;
-                showNextQuestion();
-            } else {
-                btn.style.background = 'red';
-                btn.style.color = 'white';
-            }
-        };
-        container.appendChild(btn);
-    });
-}
-
-document.getElementById('endGame').onclick = () => {
-    document.getElementById('questionText').innerText = "❌ Game Ended. You may restart anytime.";
-    document.getElementById('optionsContainer').innerHTML = "";
-};
-
-loadSentences();
-</script>
-
+  <script src="script.js"></script>
 </body>
 </html>
